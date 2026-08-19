@@ -1,0 +1,527 @@
+{
+  "tests": 91,
+  "name": "AllTests",
+  "testsuites": [
+    {
+      "name": "ApiApplication",
+      "tests": 3,
+      "testsuite": [
+        {
+          "name": "StateCanBeRead",
+          "file": "D:\/ANUBHAB\/Documents\/Microlink\/tests\/api\/server_tests.cpp",
+          "line": 9
+        },
+        {
+          "name": "StepChangesExecutionState",
+          "file": "D:\/ANUBHAB\/Documents\/Microlink\/tests\/api\/server_tests.cpp",
+          "line": 23
+        },
+        {
+          "name": "ResetClearsState",
+          "file": "D:\/ANUBHAB\/Documents\/Microlink\/tests\/api\/server_tests.cpp",
+          "line": 52
+        }
+      ]
+    },
+    {
+      "name": "Application",
+      "tests": 4,
+      "testsuite": [
+        {
+          "name": "StartsReady",
+          "file": "D:\/ANUBHAB\/Documents\/Microlink\/tests\/application\/application_tests.cpp",
+          "line": 10
+        },
+        {
+          "name": "LoadsAndExecutesProgram",
+          "file": "D:\/ANUBHAB\/Documents\/Microlink\/tests\/application\/application_tests.cpp",
+          "line": 19
+        },
+        {
+          "name": "RunsProgram",
+          "file": "D:\/ANUBHAB\/Documents\/Microlink\/tests\/application\/application_tests.cpp",
+          "line": 44
+        },
+        {
+          "name": "ResetClearsExecution",
+          "file": "D:\/ANUBHAB\/Documents\/Microlink\/tests\/application\/application_tests.cpp",
+          "line": 79
+        }
+      ]
+    },
+    {
+      "name": "Controller",
+      "tests": 6,
+      "testsuite": [
+        {
+          "name": "StartsReady",
+          "file": "D:\/ANUBHAB\/Documents\/Microlink\/tests\/runtime\/controller_tests.cpp",
+          "line": 9
+        },
+        {
+          "name": "LoadingProgramMakesControllerReady",
+          "file": "D:\/ANUBHAB\/Documents\/Microlink\/tests\/runtime\/controller_tests.cpp",
+          "line": 18
+        },
+        {
+          "name": "StepExecutesInstruction",
+          "file": "D:\/ANUBHAB\/Documents\/Microlink\/tests\/runtime\/controller_tests.cpp",
+          "line": 33
+        },
+        {
+          "name": "RunExecutesProgram",
+          "file": "D:\/ANUBHAB\/Documents\/Microlink\/tests\/runtime\/controller_tests.cpp",
+          "line": 60
+        },
+        {
+          "name": "PauseChangesRunningState",
+          "file": "D:\/ANUBHAB\/Documents\/Microlink\/tests\/runtime\/controller_tests.cpp",
+          "line": 101
+        },
+        {
+          "name": "ResetReturnsToReady",
+          "file": "D:\/ANUBHAB\/Documents\/Microlink\/tests\/runtime\/controller_tests.cpp",
+          "line": 119
+        }
+      ]
+    },
+    {
+      "name": "ExecutionTrace",
+      "tests": 2,
+      "testsuite": [
+        {
+          "name": "StoresCycleInformation",
+          "file": "D:\/ANUBHAB\/Documents\/Microlink\/tests\/runtime\/trace_tests.cpp",
+          "line": 8
+        },
+        {
+          "name": "StoresInstruction",
+          "file": "D:\/ANUBHAB\/Documents\/Microlink\/tests\/runtime\/trace_tests.cpp",
+          "line": 24
+        }
+      ]
+    },
+    {
+      "name": "Runtime",
+      "tests": 7,
+      "testsuite": [
+        {
+          "name": "StartsWithZeroCycles",
+          "file": "D:\/ANUBHAB\/Documents\/Microlink\/tests\/runtime\/runtime_tests.cpp",
+          "line": 9
+        },
+        {
+          "name": "StepExecutesOneInstruction",
+          "file": "D:\/ANUBHAB\/Documents\/Microlink\/tests\/runtime\/runtime_tests.cpp",
+          "line": 16
+        },
+        {
+          "name": "RunExecutesRequestedNumberOfCycles",
+          "file": "D:\/ANUBHAB\/Documents\/Microlink\/tests\/runtime\/runtime_tests.cpp",
+          "line": 42
+        },
+        {
+          "name": "RunStopsAtCycleLimit",
+          "file": "D:\/ANUBHAB\/Documents\/Microlink\/tests\/runtime\/runtime_tests.cpp",
+          "line": 78
+        },
+        {
+          "name": "ResetClearsCycleCount",
+          "file": "D:\/ANUBHAB\/Documents\/Microlink\/tests\/runtime\/runtime_tests.cpp",
+          "line": 96
+        },
+        {
+          "name": "StepCreatesExecutionTrace",
+          "file": "D:\/ANUBHAB\/Documents\/Microlink\/tests\/runtime\/runtime_tests.cpp",
+          "line": 114
+        },
+        {
+          "name": "TraceCanBeCleared",
+          "file": "D:\/ANUBHAB\/Documents\/Microlink\/tests\/runtime\/runtime_tests.cpp",
+          "line": 145
+        }
+      ]
+    },
+    {
+      "name": "Memory",
+      "tests": 7,
+      "testsuite": [
+        {
+          "name": "StartsCleared",
+          "file": "D:\/ANUBHAB\/Documents\/Microlink\/tests\/cpu\/memory_tests.cpp",
+          "line": 8
+        },
+        {
+          "name": "CanWriteAndReadByte",
+          "file": "D:\/ANUBHAB\/Documents\/Microlink\/tests\/cpu\/memory_tests.cpp",
+          "line": 16
+        },
+        {
+          "name": "DifferentAddressesAreIndependent",
+          "file": "D:\/ANUBHAB\/Documents\/Microlink\/tests\/cpu\/memory_tests.cpp",
+          "line": 24
+        },
+        {
+          "name": "CanLoadDataAtAddress",
+          "file": "D:\/ANUBHAB\/Documents\/Microlink\/tests\/cpu\/memory_tests.cpp",
+          "line": 34
+        },
+        {
+          "name": "ResetClearsPreviouslyWrittenData",
+          "file": "D:\/ANUBHAB\/Documents\/Microlink\/tests\/cpu\/memory_tests.cpp",
+          "line": 52
+        },
+        {
+          "name": "CanUseLastAddress",
+          "file": "D:\/ANUBHAB\/Documents\/Microlink\/tests\/cpu\/memory_tests.cpp",
+          "line": 62
+        },
+        {
+          "name": "RejectsDataThatDoesNotFit",
+          "file": "D:\/ANUBHAB\/Documents\/Microlink\/tests\/cpu\/memory_tests.cpp",
+          "line": 70
+        }
+      ]
+    },
+    {
+      "name": "Executor",
+      "tests": 24,
+      "testsuite": [
+        {
+          "name": "MovesRegisterToRegister",
+          "file": "D:\/ANUBHAB\/Documents\/Microlink\/tests\/cpu\/executor_tests.cpp",
+          "line": 9
+        },
+        {
+          "name": "MovesAccumulatorToRegister",
+          "file": "D:\/ANUBHAB\/Documents\/Microlink\/tests\/cpu\/executor_tests.cpp",
+          "line": 26
+        },
+        {
+          "name": "MovesImmediateToAccumulator",
+          "file": "D:\/ANUBHAB\/Documents\/Microlink\/tests\/cpu\/executor_tests.cpp",
+          "line": 43
+        },
+        {
+          "name": "AddsRegisterToAccumulator",
+          "file": "D:\/ANUBHAB\/Documents\/Microlink\/tests\/cpu\/executor_tests.cpp",
+          "line": 58
+        },
+        {
+          "name": "AdditionUpdatesCarry",
+          "file": "D:\/ANUBHAB\/Documents\/Microlink\/tests\/cpu\/executor_tests.cpp",
+          "line": 75
+        },
+        {
+          "name": "SubtractsRegisterFromAccumulator",
+          "file": "D:\/ANUBHAB\/Documents\/Microlink\/tests\/cpu\/executor_tests.cpp",
+          "line": 94
+        },
+        {
+          "name": "CompareDoesNotModifyAccumulator",
+          "file": "D:\/ANUBHAB\/Documents\/Microlink\/tests\/cpu\/executor_tests.cpp",
+          "line": 111
+        },
+        {
+          "name": "LoadsByteFromMemoryIntoRegister",
+          "file": "D:\/ANUBHAB\/Documents\/Microlink\/tests\/cpu\/executor_tests.cpp",
+          "line": 129
+        },
+        {
+          "name": "StoresRegisterIntoMemory",
+          "file": "D:\/ANUBHAB\/Documents\/Microlink\/tests\/cpu\/executor_tests.cpp",
+          "line": 146
+        },
+        {
+          "name": "JumpAlwaysChangesProgramCounter",
+          "file": "D:\/ANUBHAB\/Documents\/Microlink\/tests\/cpu\/executor_tests.cpp",
+          "line": 163
+        },
+        {
+          "name": "JumpIfZeroTaken",
+          "file": "D:\/ANUBHAB\/Documents\/Microlink\/tests\/cpu\/executor_tests.cpp",
+          "line": 179
+        },
+        {
+          "name": "JumpIfZeroNotTaken",
+          "file": "D:\/ANUBHAB\/Documents\/Microlink\/tests\/cpu\/executor_tests.cpp",
+          "line": 195
+        },
+        {
+          "name": "JumpIfNotZeroTaken",
+          "file": "D:\/ANUBHAB\/Documents\/Microlink\/tests\/cpu\/executor_tests.cpp",
+          "line": 212
+        },
+        {
+          "name": "JumpIfNotZeroNotTaken",
+          "file": "D:\/ANUBHAB\/Documents\/Microlink\/tests\/cpu\/executor_tests.cpp",
+          "line": 228
+        },
+        {
+          "name": "JumpIfCarryTaken",
+          "file": "D:\/ANUBHAB\/Documents\/Microlink\/tests\/cpu\/executor_tests.cpp",
+          "line": 245
+        },
+        {
+          "name": "JumpIfCarryNotTaken",
+          "file": "D:\/ANUBHAB\/Documents\/Microlink\/tests\/cpu\/executor_tests.cpp",
+          "line": 261
+        },
+        {
+          "name": "JumpIfNotCarryTaken",
+          "file": "D:\/ANUBHAB\/Documents\/Microlink\/tests\/cpu\/executor_tests.cpp",
+          "line": 278
+        },
+        {
+          "name": "JumpIfNotCarryNotTaken",
+          "file": "D:\/ANUBHAB\/Documents\/Microlink\/tests\/cpu\/executor_tests.cpp",
+          "line": 294
+        },
+        {
+          "name": "NopDoesNotChangeState",
+          "file": "D:\/ANUBHAB\/Documents\/Microlink\/tests\/cpu\/executor_tests.cpp",
+          "line": 311
+        },
+        {
+          "name": "RejectsInvalidBranchOperand",
+          "file": "D:\/ANUBHAB\/Documents\/Microlink\/tests\/cpu\/executor_tests.cpp",
+          "line": 326
+        },
+        {
+          "name": "PushStoresRegisterAndDecrementsStackPointer",
+          "file": "D:\/ANUBHAB\/Documents\/Microlink\/tests\/cpu\/executor_tests.cpp",
+          "line": 340
+        },
+        {
+          "name": "PopRestoresRegisterAndIncrementsStackPointer",
+          "file": "D:\/ANUBHAB\/Documents\/Microlink\/tests\/cpu\/executor_tests.cpp",
+          "line": 363
+        },
+        {
+          "name": "CallPushesReturnAddressAndJumps",
+          "file": "D:\/ANUBHAB\/Documents\/Microlink\/tests\/cpu\/executor_tests.cpp",
+          "line": 386
+        },
+        {
+          "name": "RetPopsReturnAddress",
+          "file": "D:\/ANUBHAB\/Documents\/Microlink\/tests\/cpu\/executor_tests.cpp",
+          "line": 411
+        }
+      ]
+    },
+    {
+      "name": "Decoder",
+      "tests": 17,
+      "testsuite": [
+        {
+          "name": "RejectsEmptyInput",
+          "file": "D:\/ANUBHAB\/Documents\/Microlink\/tests\/cpu\/decoder_tests.cpp",
+          "line": 8
+        },
+        {
+          "name": "DecodesNop",
+          "file": "D:\/ANUBHAB\/Documents\/Microlink\/tests\/cpu\/decoder_tests.cpp",
+          "line": 17
+        },
+        {
+          "name": "DecodesMovRegisterToRegister",
+          "file": "D:\/ANUBHAB\/Documents\/Microlink\/tests\/cpu\/decoder_tests.cpp",
+          "line": 28
+        },
+        {
+          "name": "DecodesMovImmediateToRegister",
+          "file": "D:\/ANUBHAB\/Documents\/Microlink\/tests\/cpu\/decoder_tests.cpp",
+          "line": 66
+        },
+        {
+          "name": "DecodesLoad",
+          "file": "D:\/ANUBHAB\/Documents\/Microlink\/tests\/cpu\/decoder_tests.cpp",
+          "line": 99
+        },
+        {
+          "name": "DecodesStore",
+          "file": "D:\/ANUBHAB\/Documents\/Microlink\/tests\/cpu\/decoder_tests.cpp",
+          "line": 133
+        },
+        {
+          "name": "DecodesArithmeticInstruction",
+          "file": "D:\/ANUBHAB\/Documents\/Microlink\/tests\/cpu\/decoder_tests.cpp",
+          "line": 167
+        },
+        {
+          "name": "DecodesJump",
+          "file": "D:\/ANUBHAB\/Documents\/Microlink\/tests\/cpu\/decoder_tests.cpp",
+          "line": 187
+        },
+        {
+          "name": "DecodesPushAndPop",
+          "file": "D:\/ANUBHAB\/Documents\/Microlink\/tests\/cpu\/decoder_tests.cpp",
+          "line": 213
+        },
+        {
+          "name": "DecodesIoInstruction",
+          "file": "D:\/ANUBHAB\/Documents\/Microlink\/tests\/cpu\/decoder_tests.cpp",
+          "line": 255
+        },
+        {
+          "name": "OperandBytesCanHaveOpcodeValues",
+          "file": "D:\/ANUBHAB\/Documents\/Microlink\/tests\/cpu\/decoder_tests.cpp",
+          "line": 281
+        },
+        {
+          "name": "RejectsUnknownOpcode",
+          "file": "D:\/ANUBHAB\/Documents\/Microlink\/tests\/cpu\/decoder_tests.cpp",
+          "line": 312
+        },
+        {
+          "name": "RejectsTruncatedMov",
+          "file": "D:\/ANUBHAB\/Documents\/Microlink\/tests\/cpu\/decoder_tests.cpp",
+          "line": 323
+        },
+        {
+          "name": "RejectsInvalidRegister",
+          "file": "D:\/ANUBHAB\/Documents\/Microlink\/tests\/cpu\/decoder_tests.cpp",
+          "line": 336
+        },
+        {
+          "name": "RejectsInvalidOperandType",
+          "file": "D:\/ANUBHAB\/Documents\/Microlink\/tests\/cpu\/decoder_tests.cpp",
+          "line": 349
+        },
+        {
+          "name": "RejectsInvalidMovDestination",
+          "file": "D:\/ANUBHAB\/Documents\/Microlink\/tests\/cpu\/decoder_tests.cpp",
+          "line": 362
+        },
+        {
+          "name": "RejectsInvalidLoadAddressType",
+          "file": "D:\/ANUBHAB\/Documents\/Microlink\/tests\/cpu\/decoder_tests.cpp",
+          "line": 379
+        }
+      ]
+    },
+    {
+      "name": "Opcode",
+      "tests": 1,
+      "testsuite": [
+        {
+          "name": "ConvertsToByte",
+          "file": "D:\/ANUBHAB\/Documents\/Microlink\/tests\/cpu\/instruction_tests.cpp",
+          "line": 7
+        }
+      ]
+    },
+    {
+      "name": "Instruction",
+      "tests": 4,
+      "testsuite": [
+        {
+          "name": "CanRepresentNoOperandInstruction",
+          "file": "D:\/ANUBHAB\/Documents\/Microlink\/tests\/cpu\/instruction_tests.cpp",
+          "line": 13
+        },
+        {
+          "name": "CanRepresentOneOperandInstruction",
+          "file": "D:\/ANUBHAB\/Documents\/Microlink\/tests\/cpu\/instruction_tests.cpp",
+          "line": 23
+        },
+        {
+          "name": "CanRepresentTwoOperandInstruction",
+          "file": "D:\/ANUBHAB\/Documents\/Microlink\/tests\/cpu\/instruction_tests.cpp",
+          "line": 45
+        },
+        {
+          "name": "CanRepresentSixteenBitAddress",
+          "file": "D:\/ANUBHAB\/Documents\/Microlink\/tests\/cpu\/instruction_tests.cpp",
+          "line": 83
+        }
+      ]
+    },
+    {
+      "name": "CPU",
+      "tests": 16,
+      "testsuite": [
+        {
+          "name": "StartsWithResetState",
+          "file": "D:\/ANUBHAB\/Documents\/Microlink\/tests\/cpu\/cpu_tests.cpp",
+          "line": 8
+        },
+        {
+          "name": "ResetRestoresArchitecturalState",
+          "file": "D:\/ANUBHAB\/Documents\/Microlink\/tests\/cpu\/cpu_tests.cpp",
+          "line": 16
+        },
+        {
+          "name": "FetchesAndDecodesNop",
+          "file": "D:\/ANUBHAB\/Documents\/Microlink\/tests\/cpu\/cpu_tests.cpp",
+          "line": 30
+        },
+        {
+          "name": "FetchDoesNotAdvanceProgramCounter",
+          "file": "D:\/ANUBHAB\/Documents\/Microlink\/tests\/cpu\/cpu_tests.cpp",
+          "line": 49
+        },
+        {
+          "name": "CycleAdvancesProgramCounterAfterNop",
+          "file": "D:\/ANUBHAB\/Documents\/Microlink\/tests\/cpu\/cpu_tests.cpp",
+          "line": 66
+        },
+        {
+          "name": "FetchesAndDecodesLoadInstruction",
+          "file": "D:\/ANUBHAB\/Documents\/Microlink\/tests\/cpu\/cpu_tests.cpp",
+          "line": 83
+        },
+        {
+          "name": "CycleAdvancesByLoadInstructionLength",
+          "file": "D:\/ANUBHAB\/Documents\/Microlink\/tests\/cpu\/cpu_tests.cpp",
+          "line": 120
+        },
+        {
+          "name": "CycleExecutesMovImmediate",
+          "file": "D:\/ANUBHAB\/Documents\/Microlink\/tests\/cpu\/cpu_tests.cpp",
+          "line": 142
+        },
+        {
+          "name": "CycleExecutesTwoInstructions",
+          "file": "D:\/ANUBHAB\/Documents\/Microlink\/tests\/cpu\/cpu_tests.cpp",
+          "line": 168
+        },
+        {
+          "name": "CycleExecutesJump",
+          "file": "D:\/ANUBHAB\/Documents\/Microlink\/tests\/cpu\/cpu_tests.cpp",
+          "line": 205
+        },
+        {
+          "name": "CycleExecutesConditionalBranch",
+          "file": "D:\/ANUBHAB\/Documents\/Microlink\/tests\/cpu\/cpu_tests.cpp",
+          "line": 225
+        },
+        {
+          "name": "CycleDoesNotTakeConditionalBranchWhenFlagIsClear",
+          "file": "D:\/ANUBHAB\/Documents\/Microlink\/tests\/cpu\/cpu_tests.cpp",
+          "line": 247
+        },
+        {
+          "name": "InstructionRegisterContainsFetchedOpcode",
+          "file": "D:\/ANUBHAB\/Documents\/Microlink\/tests\/cpu\/cpu_tests.cpp",
+          "line": 269
+        },
+        {
+          "name": "ProgramCanStartAtArbitraryAddress",
+          "file": "D:\/ANUBHAB\/Documents\/Microlink\/tests\/cpu\/cpu_tests.cpp",
+          "line": 286
+        },
+        {
+          "name": "RejectsProgramThatDoesNotFitInMemory",
+          "file": "D:\/ANUBHAB\/Documents\/Microlink\/tests\/cpu\/cpu_tests.cpp",
+          "line": 308
+        },
+        {
+          "name": "CycleReturnsExecutedInstruction",
+          "file": "D:\/ANUBHAB\/Documents\/Microlink\/tests\/cpu\/cpu_tests.cpp",
+          "line": 321
+        }
+      ]
+    }
+  ]
+}

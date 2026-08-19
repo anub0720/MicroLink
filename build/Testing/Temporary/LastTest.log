@@ -1,0 +1,2460 @@
+Start testing: Aug 19 22:41 India Standard Time
+----------------------------------------------------------
+1/91 Testing: ApiApplication.StateCanBeRead
+1/91 Test: ApiApplication.StateCanBeRead
+Command: "D:/ANUBHAB/Documents/Microlink/build/microlink_cpu_tests.exe" "--gtest_filter=ApiApplication.StateCanBeRead" "--gtest_also_run_disabled_tests"
+Directory: D:/ANUBHAB/Documents/Microlink/build
+"ApiApplication.StateCanBeRead" start time: Aug 19 22:41 India Standard Time
+Output:
+----------------------------------------------------------
+Running main() from C:/M/B/src/googletest-1.17.0/googletest/src/gtest_main.cc
+Note: Google Test filter = ApiApplication.StateCanBeRead
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from ApiApplication
+[ RUN      ] ApiApplication.StateCanBeRead
+[       OK ] ApiApplication.StateCanBeRead (0 ms)
+[----------] 1 test from ApiApplication (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.04 sec
+----------------------------------------------------------
+Test Passed.
+"ApiApplication.StateCanBeRead" end time: Aug 19 22:41 India Standard Time
+"ApiApplication.StateCanBeRead" time elapsed: 00:00:00
+----------------------------------------------------------
+
+2/91 Testing: ApiApplication.StepChangesExecutionState
+2/91 Test: ApiApplication.StepChangesExecutionState
+Command: "D:/ANUBHAB/Documents/Microlink/build/microlink_cpu_tests.exe" "--gtest_filter=ApiApplication.StepChangesExecutionState" "--gtest_also_run_disabled_tests"
+Directory: D:/ANUBHAB/Documents/Microlink/build
+"ApiApplication.StepChangesExecutionState" start time: Aug 19 22:41 India Standard Time
+Output:
+----------------------------------------------------------
+Running main() from C:/M/B/src/googletest-1.17.0/googletest/src/gtest_main.cc
+Note: Google Test filter = ApiApplication.StepChangesExecutionState
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from ApiApplication
+[ RUN      ] ApiApplication.StepChangesExecutionState
+[       OK ] ApiApplication.StepChangesExecutionState (0 ms)
+[----------] 1 test from ApiApplication (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"ApiApplication.StepChangesExecutionState" end time: Aug 19 22:41 India Standard Time
+"ApiApplication.StepChangesExecutionState" time elapsed: 00:00:00
+----------------------------------------------------------
+
+3/91 Testing: ApiApplication.ResetClearsState
+3/91 Test: ApiApplication.ResetClearsState
+Command: "D:/ANUBHAB/Documents/Microlink/build/microlink_cpu_tests.exe" "--gtest_filter=ApiApplication.ResetClearsState" "--gtest_also_run_disabled_tests"
+Directory: D:/ANUBHAB/Documents/Microlink/build
+"ApiApplication.ResetClearsState" start time: Aug 19 22:41 India Standard Time
+Output:
+----------------------------------------------------------
+Running main() from C:/M/B/src/googletest-1.17.0/googletest/src/gtest_main.cc
+Note: Google Test filter = ApiApplication.ResetClearsState
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from ApiApplication
+[ RUN      ] ApiApplication.ResetClearsState
+[       OK ] ApiApplication.ResetClearsState (0 ms)
+[----------] 1 test from ApiApplication (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.05 sec
+----------------------------------------------------------
+Test Passed.
+"ApiApplication.ResetClearsState" end time: Aug 19 22:41 India Standard Time
+"ApiApplication.ResetClearsState" time elapsed: 00:00:00
+----------------------------------------------------------
+
+4/91 Testing: Application.StartsReady
+4/91 Test: Application.StartsReady
+Command: "D:/ANUBHAB/Documents/Microlink/build/microlink_cpu_tests.exe" "--gtest_filter=Application.StartsReady" "--gtest_also_run_disabled_tests"
+Directory: D:/ANUBHAB/Documents/Microlink/build
+"Application.StartsReady" start time: Aug 19 22:41 India Standard Time
+Output:
+----------------------------------------------------------
+Running main() from C:/M/B/src/googletest-1.17.0/googletest/src/gtest_main.cc
+Note: Google Test filter = Application.StartsReady
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Application
+[ RUN      ] Application.StartsReady
+[       OK ] Application.StartsReady (0 ms)
+[----------] 1 test from Application (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.08 sec
+----------------------------------------------------------
+Test Passed.
+"Application.StartsReady" end time: Aug 19 22:41 India Standard Time
+"Application.StartsReady" time elapsed: 00:00:00
+----------------------------------------------------------
+
+5/91 Testing: Application.LoadsAndExecutesProgram
+5/91 Test: Application.LoadsAndExecutesProgram
+Command: "D:/ANUBHAB/Documents/Microlink/build/microlink_cpu_tests.exe" "--gtest_filter=Application.LoadsAndExecutesProgram" "--gtest_also_run_disabled_tests"
+Directory: D:/ANUBHAB/Documents/Microlink/build
+"Application.LoadsAndExecutesProgram" start time: Aug 19 22:41 India Standard Time
+Output:
+----------------------------------------------------------
+Running main() from C:/M/B/src/googletest-1.17.0/googletest/src/gtest_main.cc
+Note: Google Test filter = Application.LoadsAndExecutesProgram
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Application
+[ RUN      ] Application.LoadsAndExecutesProgram
+[       OK ] Application.LoadsAndExecutesProgram (0 ms)
+[----------] 1 test from Application (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.05 sec
+----------------------------------------------------------
+Test Passed.
+"Application.LoadsAndExecutesProgram" end time: Aug 19 22:41 India Standard Time
+"Application.LoadsAndExecutesProgram" time elapsed: 00:00:00
+----------------------------------------------------------
+
+6/91 Testing: Application.RunsProgram
+6/91 Test: Application.RunsProgram
+Command: "D:/ANUBHAB/Documents/Microlink/build/microlink_cpu_tests.exe" "--gtest_filter=Application.RunsProgram" "--gtest_also_run_disabled_tests"
+Directory: D:/ANUBHAB/Documents/Microlink/build
+"Application.RunsProgram" start time: Aug 19 22:41 India Standard Time
+Output:
+----------------------------------------------------------
+Running main() from C:/M/B/src/googletest-1.17.0/googletest/src/gtest_main.cc
+Note: Google Test filter = Application.RunsProgram
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Application
+[ RUN      ] Application.RunsProgram
+[       OK ] Application.RunsProgram (0 ms)
+[----------] 1 test from Application (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.04 sec
+----------------------------------------------------------
+Test Passed.
+"Application.RunsProgram" end time: Aug 19 22:41 India Standard Time
+"Application.RunsProgram" time elapsed: 00:00:00
+----------------------------------------------------------
+
+7/91 Testing: Application.ResetClearsExecution
+7/91 Test: Application.ResetClearsExecution
+Command: "D:/ANUBHAB/Documents/Microlink/build/microlink_cpu_tests.exe" "--gtest_filter=Application.ResetClearsExecution" "--gtest_also_run_disabled_tests"
+Directory: D:/ANUBHAB/Documents/Microlink/build
+"Application.ResetClearsExecution" start time: Aug 19 22:41 India Standard Time
+Output:
+----------------------------------------------------------
+Running main() from C:/M/B/src/googletest-1.17.0/googletest/src/gtest_main.cc
+Note: Google Test filter = Application.ResetClearsExecution
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Application
+[ RUN      ] Application.ResetClearsExecution
+[       OK ] Application.ResetClearsExecution (0 ms)
+[----------] 1 test from Application (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.04 sec
+----------------------------------------------------------
+Test Passed.
+"Application.ResetClearsExecution" end time: Aug 19 22:41 India Standard Time
+"Application.ResetClearsExecution" time elapsed: 00:00:00
+----------------------------------------------------------
+
+8/91 Testing: Controller.StartsReady
+8/91 Test: Controller.StartsReady
+Command: "D:/ANUBHAB/Documents/Microlink/build/microlink_cpu_tests.exe" "--gtest_filter=Controller.StartsReady" "--gtest_also_run_disabled_tests"
+Directory: D:/ANUBHAB/Documents/Microlink/build
+"Controller.StartsReady" start time: Aug 19 22:41 India Standard Time
+Output:
+----------------------------------------------------------
+Running main() from C:/M/B/src/googletest-1.17.0/googletest/src/gtest_main.cc
+Note: Google Test filter = Controller.StartsReady
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Controller
+[ RUN      ] Controller.StartsReady
+[       OK ] Controller.StartsReady (0 ms)
+[----------] 1 test from Controller (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.04 sec
+----------------------------------------------------------
+Test Passed.
+"Controller.StartsReady" end time: Aug 19 22:41 India Standard Time
+"Controller.StartsReady" time elapsed: 00:00:00
+----------------------------------------------------------
+
+9/91 Testing: Controller.LoadingProgramMakesControllerReady
+9/91 Test: Controller.LoadingProgramMakesControllerReady
+Command: "D:/ANUBHAB/Documents/Microlink/build/microlink_cpu_tests.exe" "--gtest_filter=Controller.LoadingProgramMakesControllerReady" "--gtest_also_run_disabled_tests"
+Directory: D:/ANUBHAB/Documents/Microlink/build
+"Controller.LoadingProgramMakesControllerReady" start time: Aug 19 22:41 India Standard Time
+Output:
+----------------------------------------------------------
+Running main() from C:/M/B/src/googletest-1.17.0/googletest/src/gtest_main.cc
+Note: Google Test filter = Controller.LoadingProgramMakesControllerReady
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Controller
+[ RUN      ] Controller.LoadingProgramMakesControllerReady
+[       OK ] Controller.LoadingProgramMakesControllerReady (0 ms)
+[----------] 1 test from Controller (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.05 sec
+----------------------------------------------------------
+Test Passed.
+"Controller.LoadingProgramMakesControllerReady" end time: Aug 19 22:41 India Standard Time
+"Controller.LoadingProgramMakesControllerReady" time elapsed: 00:00:00
+----------------------------------------------------------
+
+10/91 Testing: Controller.StepExecutesInstruction
+10/91 Test: Controller.StepExecutesInstruction
+Command: "D:/ANUBHAB/Documents/Microlink/build/microlink_cpu_tests.exe" "--gtest_filter=Controller.StepExecutesInstruction" "--gtest_also_run_disabled_tests"
+Directory: D:/ANUBHAB/Documents/Microlink/build
+"Controller.StepExecutesInstruction" start time: Aug 19 22:41 India Standard Time
+Output:
+----------------------------------------------------------
+Running main() from C:/M/B/src/googletest-1.17.0/googletest/src/gtest_main.cc
+Note: Google Test filter = Controller.StepExecutesInstruction
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Controller
+[ RUN      ] Controller.StepExecutesInstruction
+[       OK ] Controller.StepExecutesInstruction (0 ms)
+[----------] 1 test from Controller (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.04 sec
+----------------------------------------------------------
+Test Passed.
+"Controller.StepExecutesInstruction" end time: Aug 19 22:41 India Standard Time
+"Controller.StepExecutesInstruction" time elapsed: 00:00:00
+----------------------------------------------------------
+
+11/91 Testing: Controller.RunExecutesProgram
+11/91 Test: Controller.RunExecutesProgram
+Command: "D:/ANUBHAB/Documents/Microlink/build/microlink_cpu_tests.exe" "--gtest_filter=Controller.RunExecutesProgram" "--gtest_also_run_disabled_tests"
+Directory: D:/ANUBHAB/Documents/Microlink/build
+"Controller.RunExecutesProgram" start time: Aug 19 22:41 India Standard Time
+Output:
+----------------------------------------------------------
+Running main() from C:/M/B/src/googletest-1.17.0/googletest/src/gtest_main.cc
+Note: Google Test filter = Controller.RunExecutesProgram
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Controller
+[ RUN      ] Controller.RunExecutesProgram
+[       OK ] Controller.RunExecutesProgram (0 ms)
+[----------] 1 test from Controller (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.04 sec
+----------------------------------------------------------
+Test Passed.
+"Controller.RunExecutesProgram" end time: Aug 19 22:41 India Standard Time
+"Controller.RunExecutesProgram" time elapsed: 00:00:00
+----------------------------------------------------------
+
+12/91 Testing: Controller.PauseChangesRunningState
+12/91 Test: Controller.PauseChangesRunningState
+Command: "D:/ANUBHAB/Documents/Microlink/build/microlink_cpu_tests.exe" "--gtest_filter=Controller.PauseChangesRunningState" "--gtest_also_run_disabled_tests"
+Directory: D:/ANUBHAB/Documents/Microlink/build
+"Controller.PauseChangesRunningState" start time: Aug 19 22:41 India Standard Time
+Output:
+----------------------------------------------------------
+Running main() from C:/M/B/src/googletest-1.17.0/googletest/src/gtest_main.cc
+Note: Google Test filter = Controller.PauseChangesRunningState
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Controller
+[ RUN      ] Controller.PauseChangesRunningState
+[       OK ] Controller.PauseChangesRunningState (0 ms)
+[----------] 1 test from Controller (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.04 sec
+----------------------------------------------------------
+Test Passed.
+"Controller.PauseChangesRunningState" end time: Aug 19 22:41 India Standard Time
+"Controller.PauseChangesRunningState" time elapsed: 00:00:00
+----------------------------------------------------------
+
+13/91 Testing: Controller.ResetReturnsToReady
+13/91 Test: Controller.ResetReturnsToReady
+Command: "D:/ANUBHAB/Documents/Microlink/build/microlink_cpu_tests.exe" "--gtest_filter=Controller.ResetReturnsToReady" "--gtest_also_run_disabled_tests"
+Directory: D:/ANUBHAB/Documents/Microlink/build
+"Controller.ResetReturnsToReady" start time: Aug 19 22:41 India Standard Time
+Output:
+----------------------------------------------------------
+Running main() from C:/M/B/src/googletest-1.17.0/googletest/src/gtest_main.cc
+Note: Google Test filter = Controller.ResetReturnsToReady
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Controller
+[ RUN      ] Controller.ResetReturnsToReady
+[       OK ] Controller.ResetReturnsToReady (0 ms)
+[----------] 1 test from Controller (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"Controller.ResetReturnsToReady" end time: Aug 19 22:41 India Standard Time
+"Controller.ResetReturnsToReady" time elapsed: 00:00:00
+----------------------------------------------------------
+
+14/91 Testing: ExecutionTrace.StoresCycleInformation
+14/91 Test: ExecutionTrace.StoresCycleInformation
+Command: "D:/ANUBHAB/Documents/Microlink/build/microlink_cpu_tests.exe" "--gtest_filter=ExecutionTrace.StoresCycleInformation" "--gtest_also_run_disabled_tests"
+Directory: D:/ANUBHAB/Documents/Microlink/build
+"ExecutionTrace.StoresCycleInformation" start time: Aug 19 22:41 India Standard Time
+Output:
+----------------------------------------------------------
+Running main() from C:/M/B/src/googletest-1.17.0/googletest/src/gtest_main.cc
+Note: Google Test filter = ExecutionTrace.StoresCycleInformation
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from ExecutionTrace
+[ RUN      ] ExecutionTrace.StoresCycleInformation
+[       OK ] ExecutionTrace.StoresCycleInformation (0 ms)
+[----------] 1 test from ExecutionTrace (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"ExecutionTrace.StoresCycleInformation" end time: Aug 19 22:41 India Standard Time
+"ExecutionTrace.StoresCycleInformation" time elapsed: 00:00:00
+----------------------------------------------------------
+
+15/91 Testing: ExecutionTrace.StoresInstruction
+15/91 Test: ExecutionTrace.StoresInstruction
+Command: "D:/ANUBHAB/Documents/Microlink/build/microlink_cpu_tests.exe" "--gtest_filter=ExecutionTrace.StoresInstruction" "--gtest_also_run_disabled_tests"
+Directory: D:/ANUBHAB/Documents/Microlink/build
+"ExecutionTrace.StoresInstruction" start time: Aug 19 22:41 India Standard Time
+Output:
+----------------------------------------------------------
+Running main() from C:/M/B/src/googletest-1.17.0/googletest/src/gtest_main.cc
+Note: Google Test filter = ExecutionTrace.StoresInstruction
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from ExecutionTrace
+[ RUN      ] ExecutionTrace.StoresInstruction
+[       OK ] ExecutionTrace.StoresInstruction (0 ms)
+[----------] 1 test from ExecutionTrace (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"ExecutionTrace.StoresInstruction" end time: Aug 19 22:41 India Standard Time
+"ExecutionTrace.StoresInstruction" time elapsed: 00:00:00
+----------------------------------------------------------
+
+16/91 Testing: Runtime.StartsWithZeroCycles
+16/91 Test: Runtime.StartsWithZeroCycles
+Command: "D:/ANUBHAB/Documents/Microlink/build/microlink_cpu_tests.exe" "--gtest_filter=Runtime.StartsWithZeroCycles" "--gtest_also_run_disabled_tests"
+Directory: D:/ANUBHAB/Documents/Microlink/build
+"Runtime.StartsWithZeroCycles" start time: Aug 19 22:41 India Standard Time
+Output:
+----------------------------------------------------------
+Running main() from C:/M/B/src/googletest-1.17.0/googletest/src/gtest_main.cc
+Note: Google Test filter = Runtime.StartsWithZeroCycles
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Runtime
+[ RUN      ] Runtime.StartsWithZeroCycles
+[       OK ] Runtime.StartsWithZeroCycles (0 ms)
+[----------] 1 test from Runtime (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"Runtime.StartsWithZeroCycles" end time: Aug 19 22:41 India Standard Time
+"Runtime.StartsWithZeroCycles" time elapsed: 00:00:00
+----------------------------------------------------------
+
+17/91 Testing: Runtime.StepExecutesOneInstruction
+17/91 Test: Runtime.StepExecutesOneInstruction
+Command: "D:/ANUBHAB/Documents/Microlink/build/microlink_cpu_tests.exe" "--gtest_filter=Runtime.StepExecutesOneInstruction" "--gtest_also_run_disabled_tests"
+Directory: D:/ANUBHAB/Documents/Microlink/build
+"Runtime.StepExecutesOneInstruction" start time: Aug 19 22:41 India Standard Time
+Output:
+----------------------------------------------------------
+Running main() from C:/M/B/src/googletest-1.17.0/googletest/src/gtest_main.cc
+Note: Google Test filter = Runtime.StepExecutesOneInstruction
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Runtime
+[ RUN      ] Runtime.StepExecutesOneInstruction
+[       OK ] Runtime.StepExecutesOneInstruction (0 ms)
+[----------] 1 test from Runtime (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"Runtime.StepExecutesOneInstruction" end time: Aug 19 22:41 India Standard Time
+"Runtime.StepExecutesOneInstruction" time elapsed: 00:00:00
+----------------------------------------------------------
+
+18/91 Testing: Runtime.RunExecutesRequestedNumberOfCycles
+18/91 Test: Runtime.RunExecutesRequestedNumberOfCycles
+Command: "D:/ANUBHAB/Documents/Microlink/build/microlink_cpu_tests.exe" "--gtest_filter=Runtime.RunExecutesRequestedNumberOfCycles" "--gtest_also_run_disabled_tests"
+Directory: D:/ANUBHAB/Documents/Microlink/build
+"Runtime.RunExecutesRequestedNumberOfCycles" start time: Aug 19 22:41 India Standard Time
+Output:
+----------------------------------------------------------
+Running main() from C:/M/B/src/googletest-1.17.0/googletest/src/gtest_main.cc
+Note: Google Test filter = Runtime.RunExecutesRequestedNumberOfCycles
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Runtime
+[ RUN      ] Runtime.RunExecutesRequestedNumberOfCycles
+[       OK ] Runtime.RunExecutesRequestedNumberOfCycles (0 ms)
+[----------] 1 test from Runtime (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"Runtime.RunExecutesRequestedNumberOfCycles" end time: Aug 19 22:41 India Standard Time
+"Runtime.RunExecutesRequestedNumberOfCycles" time elapsed: 00:00:00
+----------------------------------------------------------
+
+19/91 Testing: Runtime.RunStopsAtCycleLimit
+19/91 Test: Runtime.RunStopsAtCycleLimit
+Command: "D:/ANUBHAB/Documents/Microlink/build/microlink_cpu_tests.exe" "--gtest_filter=Runtime.RunStopsAtCycleLimit" "--gtest_also_run_disabled_tests"
+Directory: D:/ANUBHAB/Documents/Microlink/build
+"Runtime.RunStopsAtCycleLimit" start time: Aug 19 22:41 India Standard Time
+Output:
+----------------------------------------------------------
+Running main() from C:/M/B/src/googletest-1.17.0/googletest/src/gtest_main.cc
+Note: Google Test filter = Runtime.RunStopsAtCycleLimit
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Runtime
+[ RUN      ] Runtime.RunStopsAtCycleLimit
+[       OK ] Runtime.RunStopsAtCycleLimit (0 ms)
+[----------] 1 test from Runtime (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"Runtime.RunStopsAtCycleLimit" end time: Aug 19 22:41 India Standard Time
+"Runtime.RunStopsAtCycleLimit" time elapsed: 00:00:00
+----------------------------------------------------------
+
+20/91 Testing: Runtime.ResetClearsCycleCount
+20/91 Test: Runtime.ResetClearsCycleCount
+Command: "D:/ANUBHAB/Documents/Microlink/build/microlink_cpu_tests.exe" "--gtest_filter=Runtime.ResetClearsCycleCount" "--gtest_also_run_disabled_tests"
+Directory: D:/ANUBHAB/Documents/Microlink/build
+"Runtime.ResetClearsCycleCount" start time: Aug 19 22:41 India Standard Time
+Output:
+----------------------------------------------------------
+Running main() from C:/M/B/src/googletest-1.17.0/googletest/src/gtest_main.cc
+Note: Google Test filter = Runtime.ResetClearsCycleCount
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Runtime
+[ RUN      ] Runtime.ResetClearsCycleCount
+[       OK ] Runtime.ResetClearsCycleCount (0 ms)
+[----------] 1 test from Runtime (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"Runtime.ResetClearsCycleCount" end time: Aug 19 22:41 India Standard Time
+"Runtime.ResetClearsCycleCount" time elapsed: 00:00:00
+----------------------------------------------------------
+
+21/91 Testing: Runtime.StepCreatesExecutionTrace
+21/91 Test: Runtime.StepCreatesExecutionTrace
+Command: "D:/ANUBHAB/Documents/Microlink/build/microlink_cpu_tests.exe" "--gtest_filter=Runtime.StepCreatesExecutionTrace" "--gtest_also_run_disabled_tests"
+Directory: D:/ANUBHAB/Documents/Microlink/build
+"Runtime.StepCreatesExecutionTrace" start time: Aug 19 22:41 India Standard Time
+Output:
+----------------------------------------------------------
+Running main() from C:/M/B/src/googletest-1.17.0/googletest/src/gtest_main.cc
+Note: Google Test filter = Runtime.StepCreatesExecutionTrace
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Runtime
+[ RUN      ] Runtime.StepCreatesExecutionTrace
+[       OK ] Runtime.StepCreatesExecutionTrace (0 ms)
+[----------] 1 test from Runtime (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"Runtime.StepCreatesExecutionTrace" end time: Aug 19 22:41 India Standard Time
+"Runtime.StepCreatesExecutionTrace" time elapsed: 00:00:00
+----------------------------------------------------------
+
+22/91 Testing: Runtime.TraceCanBeCleared
+22/91 Test: Runtime.TraceCanBeCleared
+Command: "D:/ANUBHAB/Documents/Microlink/build/microlink_cpu_tests.exe" "--gtest_filter=Runtime.TraceCanBeCleared" "--gtest_also_run_disabled_tests"
+Directory: D:/ANUBHAB/Documents/Microlink/build
+"Runtime.TraceCanBeCleared" start time: Aug 19 22:41 India Standard Time
+Output:
+----------------------------------------------------------
+Running main() from C:/M/B/src/googletest-1.17.0/googletest/src/gtest_main.cc
+Note: Google Test filter = Runtime.TraceCanBeCleared
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Runtime
+[ RUN      ] Runtime.TraceCanBeCleared
+[       OK ] Runtime.TraceCanBeCleared (0 ms)
+[----------] 1 test from Runtime (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"Runtime.TraceCanBeCleared" end time: Aug 19 22:41 India Standard Time
+"Runtime.TraceCanBeCleared" time elapsed: 00:00:00
+----------------------------------------------------------
+
+23/91 Testing: Memory.StartsCleared
+23/91 Test: Memory.StartsCleared
+Command: "D:/ANUBHAB/Documents/Microlink/build/microlink_cpu_tests.exe" "--gtest_filter=Memory.StartsCleared" "--gtest_also_run_disabled_tests"
+Directory: D:/ANUBHAB/Documents/Microlink/build
+"Memory.StartsCleared" start time: Aug 19 22:41 India Standard Time
+Output:
+----------------------------------------------------------
+Running main() from C:/M/B/src/googletest-1.17.0/googletest/src/gtest_main.cc
+Note: Google Test filter = Memory.StartsCleared
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Memory
+[ RUN      ] Memory.StartsCleared
+[       OK ] Memory.StartsCleared (0 ms)
+[----------] 1 test from Memory (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.04 sec
+----------------------------------------------------------
+Test Passed.
+"Memory.StartsCleared" end time: Aug 19 22:41 India Standard Time
+"Memory.StartsCleared" time elapsed: 00:00:00
+----------------------------------------------------------
+
+24/91 Testing: Memory.CanWriteAndReadByte
+24/91 Test: Memory.CanWriteAndReadByte
+Command: "D:/ANUBHAB/Documents/Microlink/build/microlink_cpu_tests.exe" "--gtest_filter=Memory.CanWriteAndReadByte" "--gtest_also_run_disabled_tests"
+Directory: D:/ANUBHAB/Documents/Microlink/build
+"Memory.CanWriteAndReadByte" start time: Aug 19 22:41 India Standard Time
+Output:
+----------------------------------------------------------
+Running main() from C:/M/B/src/googletest-1.17.0/googletest/src/gtest_main.cc
+Note: Google Test filter = Memory.CanWriteAndReadByte
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Memory
+[ RUN      ] Memory.CanWriteAndReadByte
+[       OK ] Memory.CanWriteAndReadByte (0 ms)
+[----------] 1 test from Memory (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.05 sec
+----------------------------------------------------------
+Test Passed.
+"Memory.CanWriteAndReadByte" end time: Aug 19 22:41 India Standard Time
+"Memory.CanWriteAndReadByte" time elapsed: 00:00:00
+----------------------------------------------------------
+
+25/91 Testing: Memory.DifferentAddressesAreIndependent
+25/91 Test: Memory.DifferentAddressesAreIndependent
+Command: "D:/ANUBHAB/Documents/Microlink/build/microlink_cpu_tests.exe" "--gtest_filter=Memory.DifferentAddressesAreIndependent" "--gtest_also_run_disabled_tests"
+Directory: D:/ANUBHAB/Documents/Microlink/build
+"Memory.DifferentAddressesAreIndependent" start time: Aug 19 22:41 India Standard Time
+Output:
+----------------------------------------------------------
+Running main() from C:/M/B/src/googletest-1.17.0/googletest/src/gtest_main.cc
+Note: Google Test filter = Memory.DifferentAddressesAreIndependent
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Memory
+[ RUN      ] Memory.DifferentAddressesAreIndependent
+[       OK ] Memory.DifferentAddressesAreIndependent (0 ms)
+[----------] 1 test from Memory (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.04 sec
+----------------------------------------------------------
+Test Passed.
+"Memory.DifferentAddressesAreIndependent" end time: Aug 19 22:41 India Standard Time
+"Memory.DifferentAddressesAreIndependent" time elapsed: 00:00:00
+----------------------------------------------------------
+
+26/91 Testing: Memory.CanLoadDataAtAddress
+26/91 Test: Memory.CanLoadDataAtAddress
+Command: "D:/ANUBHAB/Documents/Microlink/build/microlink_cpu_tests.exe" "--gtest_filter=Memory.CanLoadDataAtAddress" "--gtest_also_run_disabled_tests"
+Directory: D:/ANUBHAB/Documents/Microlink/build
+"Memory.CanLoadDataAtAddress" start time: Aug 19 22:41 India Standard Time
+Output:
+----------------------------------------------------------
+Running main() from C:/M/B/src/googletest-1.17.0/googletest/src/gtest_main.cc
+Note: Google Test filter = Memory.CanLoadDataAtAddress
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Memory
+[ RUN      ] Memory.CanLoadDataAtAddress
+[       OK ] Memory.CanLoadDataAtAddress (0 ms)
+[----------] 1 test from Memory (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"Memory.CanLoadDataAtAddress" end time: Aug 19 22:41 India Standard Time
+"Memory.CanLoadDataAtAddress" time elapsed: 00:00:00
+----------------------------------------------------------
+
+27/91 Testing: Memory.ResetClearsPreviouslyWrittenData
+27/91 Test: Memory.ResetClearsPreviouslyWrittenData
+Command: "D:/ANUBHAB/Documents/Microlink/build/microlink_cpu_tests.exe" "--gtest_filter=Memory.ResetClearsPreviouslyWrittenData" "--gtest_also_run_disabled_tests"
+Directory: D:/ANUBHAB/Documents/Microlink/build
+"Memory.ResetClearsPreviouslyWrittenData" start time: Aug 19 22:41 India Standard Time
+Output:
+----------------------------------------------------------
+Running main() from C:/M/B/src/googletest-1.17.0/googletest/src/gtest_main.cc
+Note: Google Test filter = Memory.ResetClearsPreviouslyWrittenData
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Memory
+[ RUN      ] Memory.ResetClearsPreviouslyWrittenData
+[       OK ] Memory.ResetClearsPreviouslyWrittenData (0 ms)
+[----------] 1 test from Memory (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"Memory.ResetClearsPreviouslyWrittenData" end time: Aug 19 22:41 India Standard Time
+"Memory.ResetClearsPreviouslyWrittenData" time elapsed: 00:00:00
+----------------------------------------------------------
+
+28/91 Testing: Memory.CanUseLastAddress
+28/91 Test: Memory.CanUseLastAddress
+Command: "D:/ANUBHAB/Documents/Microlink/build/microlink_cpu_tests.exe" "--gtest_filter=Memory.CanUseLastAddress" "--gtest_also_run_disabled_tests"
+Directory: D:/ANUBHAB/Documents/Microlink/build
+"Memory.CanUseLastAddress" start time: Aug 19 22:41 India Standard Time
+Output:
+----------------------------------------------------------
+Running main() from C:/M/B/src/googletest-1.17.0/googletest/src/gtest_main.cc
+Note: Google Test filter = Memory.CanUseLastAddress
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Memory
+[ RUN      ] Memory.CanUseLastAddress
+[       OK ] Memory.CanUseLastAddress (0 ms)
+[----------] 1 test from Memory (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"Memory.CanUseLastAddress" end time: Aug 19 22:41 India Standard Time
+"Memory.CanUseLastAddress" time elapsed: 00:00:00
+----------------------------------------------------------
+
+29/91 Testing: Memory.RejectsDataThatDoesNotFit
+29/91 Test: Memory.RejectsDataThatDoesNotFit
+Command: "D:/ANUBHAB/Documents/Microlink/build/microlink_cpu_tests.exe" "--gtest_filter=Memory.RejectsDataThatDoesNotFit" "--gtest_also_run_disabled_tests"
+Directory: D:/ANUBHAB/Documents/Microlink/build
+"Memory.RejectsDataThatDoesNotFit" start time: Aug 19 22:41 India Standard Time
+Output:
+----------------------------------------------------------
+Running main() from C:/M/B/src/googletest-1.17.0/googletest/src/gtest_main.cc
+Note: Google Test filter = Memory.RejectsDataThatDoesNotFit
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Memory
+[ RUN      ] Memory.RejectsDataThatDoesNotFit
+[       OK ] Memory.RejectsDataThatDoesNotFit (0 ms)
+[----------] 1 test from Memory (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"Memory.RejectsDataThatDoesNotFit" end time: Aug 19 22:41 India Standard Time
+"Memory.RejectsDataThatDoesNotFit" time elapsed: 00:00:00
+----------------------------------------------------------
+
+30/91 Testing: Executor.MovesRegisterToRegister
+30/91 Test: Executor.MovesRegisterToRegister
+Command: "D:/ANUBHAB/Documents/Microlink/build/microlink_cpu_tests.exe" "--gtest_filter=Executor.MovesRegisterToRegister" "--gtest_also_run_disabled_tests"
+Directory: D:/ANUBHAB/Documents/Microlink/build
+"Executor.MovesRegisterToRegister" start time: Aug 19 22:41 India Standard Time
+Output:
+----------------------------------------------------------
+Running main() from C:/M/B/src/googletest-1.17.0/googletest/src/gtest_main.cc
+Note: Google Test filter = Executor.MovesRegisterToRegister
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Executor
+[ RUN      ] Executor.MovesRegisterToRegister
+[       OK ] Executor.MovesRegisterToRegister (0 ms)
+[----------] 1 test from Executor (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"Executor.MovesRegisterToRegister" end time: Aug 19 22:41 India Standard Time
+"Executor.MovesRegisterToRegister" time elapsed: 00:00:00
+----------------------------------------------------------
+
+31/91 Testing: Executor.MovesAccumulatorToRegister
+31/91 Test: Executor.MovesAccumulatorToRegister
+Command: "D:/ANUBHAB/Documents/Microlink/build/microlink_cpu_tests.exe" "--gtest_filter=Executor.MovesAccumulatorToRegister" "--gtest_also_run_disabled_tests"
+Directory: D:/ANUBHAB/Documents/Microlink/build
+"Executor.MovesAccumulatorToRegister" start time: Aug 19 22:41 India Standard Time
+Output:
+----------------------------------------------------------
+Running main() from C:/M/B/src/googletest-1.17.0/googletest/src/gtest_main.cc
+Note: Google Test filter = Executor.MovesAccumulatorToRegister
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Executor
+[ RUN      ] Executor.MovesAccumulatorToRegister
+[       OK ] Executor.MovesAccumulatorToRegister (0 ms)
+[----------] 1 test from Executor (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"Executor.MovesAccumulatorToRegister" end time: Aug 19 22:41 India Standard Time
+"Executor.MovesAccumulatorToRegister" time elapsed: 00:00:00
+----------------------------------------------------------
+
+32/91 Testing: Executor.MovesImmediateToAccumulator
+32/91 Test: Executor.MovesImmediateToAccumulator
+Command: "D:/ANUBHAB/Documents/Microlink/build/microlink_cpu_tests.exe" "--gtest_filter=Executor.MovesImmediateToAccumulator" "--gtest_also_run_disabled_tests"
+Directory: D:/ANUBHAB/Documents/Microlink/build
+"Executor.MovesImmediateToAccumulator" start time: Aug 19 22:41 India Standard Time
+Output:
+----------------------------------------------------------
+Running main() from C:/M/B/src/googletest-1.17.0/googletest/src/gtest_main.cc
+Note: Google Test filter = Executor.MovesImmediateToAccumulator
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Executor
+[ RUN      ] Executor.MovesImmediateToAccumulator
+[       OK ] Executor.MovesImmediateToAccumulator (0 ms)
+[----------] 1 test from Executor (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"Executor.MovesImmediateToAccumulator" end time: Aug 19 22:41 India Standard Time
+"Executor.MovesImmediateToAccumulator" time elapsed: 00:00:00
+----------------------------------------------------------
+
+33/91 Testing: Executor.AddsRegisterToAccumulator
+33/91 Test: Executor.AddsRegisterToAccumulator
+Command: "D:/ANUBHAB/Documents/Microlink/build/microlink_cpu_tests.exe" "--gtest_filter=Executor.AddsRegisterToAccumulator" "--gtest_also_run_disabled_tests"
+Directory: D:/ANUBHAB/Documents/Microlink/build
+"Executor.AddsRegisterToAccumulator" start time: Aug 19 22:41 India Standard Time
+Output:
+----------------------------------------------------------
+Running main() from C:/M/B/src/googletest-1.17.0/googletest/src/gtest_main.cc
+Note: Google Test filter = Executor.AddsRegisterToAccumulator
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Executor
+[ RUN      ] Executor.AddsRegisterToAccumulator
+[       OK ] Executor.AddsRegisterToAccumulator (0 ms)
+[----------] 1 test from Executor (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"Executor.AddsRegisterToAccumulator" end time: Aug 19 22:41 India Standard Time
+"Executor.AddsRegisterToAccumulator" time elapsed: 00:00:00
+----------------------------------------------------------
+
+34/91 Testing: Executor.AdditionUpdatesCarry
+34/91 Test: Executor.AdditionUpdatesCarry
+Command: "D:/ANUBHAB/Documents/Microlink/build/microlink_cpu_tests.exe" "--gtest_filter=Executor.AdditionUpdatesCarry" "--gtest_also_run_disabled_tests"
+Directory: D:/ANUBHAB/Documents/Microlink/build
+"Executor.AdditionUpdatesCarry" start time: Aug 19 22:41 India Standard Time
+Output:
+----------------------------------------------------------
+Running main() from C:/M/B/src/googletest-1.17.0/googletest/src/gtest_main.cc
+Note: Google Test filter = Executor.AdditionUpdatesCarry
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Executor
+[ RUN      ] Executor.AdditionUpdatesCarry
+[       OK ] Executor.AdditionUpdatesCarry (0 ms)
+[----------] 1 test from Executor (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"Executor.AdditionUpdatesCarry" end time: Aug 19 22:41 India Standard Time
+"Executor.AdditionUpdatesCarry" time elapsed: 00:00:00
+----------------------------------------------------------
+
+35/91 Testing: Executor.SubtractsRegisterFromAccumulator
+35/91 Test: Executor.SubtractsRegisterFromAccumulator
+Command: "D:/ANUBHAB/Documents/Microlink/build/microlink_cpu_tests.exe" "--gtest_filter=Executor.SubtractsRegisterFromAccumulator" "--gtest_also_run_disabled_tests"
+Directory: D:/ANUBHAB/Documents/Microlink/build
+"Executor.SubtractsRegisterFromAccumulator" start time: Aug 19 22:41 India Standard Time
+Output:
+----------------------------------------------------------
+Running main() from C:/M/B/src/googletest-1.17.0/googletest/src/gtest_main.cc
+Note: Google Test filter = Executor.SubtractsRegisterFromAccumulator
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Executor
+[ RUN      ] Executor.SubtractsRegisterFromAccumulator
+[       OK ] Executor.SubtractsRegisterFromAccumulator (0 ms)
+[----------] 1 test from Executor (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"Executor.SubtractsRegisterFromAccumulator" end time: Aug 19 22:41 India Standard Time
+"Executor.SubtractsRegisterFromAccumulator" time elapsed: 00:00:00
+----------------------------------------------------------
+
+36/91 Testing: Executor.CompareDoesNotModifyAccumulator
+36/91 Test: Executor.CompareDoesNotModifyAccumulator
+Command: "D:/ANUBHAB/Documents/Microlink/build/microlink_cpu_tests.exe" "--gtest_filter=Executor.CompareDoesNotModifyAccumulator" "--gtest_also_run_disabled_tests"
+Directory: D:/ANUBHAB/Documents/Microlink/build
+"Executor.CompareDoesNotModifyAccumulator" start time: Aug 19 22:41 India Standard Time
+Output:
+----------------------------------------------------------
+Running main() from C:/M/B/src/googletest-1.17.0/googletest/src/gtest_main.cc
+Note: Google Test filter = Executor.CompareDoesNotModifyAccumulator
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Executor
+[ RUN      ] Executor.CompareDoesNotModifyAccumulator
+[       OK ] Executor.CompareDoesNotModifyAccumulator (0 ms)
+[----------] 1 test from Executor (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"Executor.CompareDoesNotModifyAccumulator" end time: Aug 19 22:41 India Standard Time
+"Executor.CompareDoesNotModifyAccumulator" time elapsed: 00:00:00
+----------------------------------------------------------
+
+37/91 Testing: Executor.LoadsByteFromMemoryIntoRegister
+37/91 Test: Executor.LoadsByteFromMemoryIntoRegister
+Command: "D:/ANUBHAB/Documents/Microlink/build/microlink_cpu_tests.exe" "--gtest_filter=Executor.LoadsByteFromMemoryIntoRegister" "--gtest_also_run_disabled_tests"
+Directory: D:/ANUBHAB/Documents/Microlink/build
+"Executor.LoadsByteFromMemoryIntoRegister" start time: Aug 19 22:41 India Standard Time
+Output:
+----------------------------------------------------------
+Running main() from C:/M/B/src/googletest-1.17.0/googletest/src/gtest_main.cc
+Note: Google Test filter = Executor.LoadsByteFromMemoryIntoRegister
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Executor
+[ RUN      ] Executor.LoadsByteFromMemoryIntoRegister
+[       OK ] Executor.LoadsByteFromMemoryIntoRegister (0 ms)
+[----------] 1 test from Executor (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"Executor.LoadsByteFromMemoryIntoRegister" end time: Aug 19 22:41 India Standard Time
+"Executor.LoadsByteFromMemoryIntoRegister" time elapsed: 00:00:00
+----------------------------------------------------------
+
+38/91 Testing: Executor.StoresRegisterIntoMemory
+38/91 Test: Executor.StoresRegisterIntoMemory
+Command: "D:/ANUBHAB/Documents/Microlink/build/microlink_cpu_tests.exe" "--gtest_filter=Executor.StoresRegisterIntoMemory" "--gtest_also_run_disabled_tests"
+Directory: D:/ANUBHAB/Documents/Microlink/build
+"Executor.StoresRegisterIntoMemory" start time: Aug 19 22:41 India Standard Time
+Output:
+----------------------------------------------------------
+Running main() from C:/M/B/src/googletest-1.17.0/googletest/src/gtest_main.cc
+Note: Google Test filter = Executor.StoresRegisterIntoMemory
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Executor
+[ RUN      ] Executor.StoresRegisterIntoMemory
+[       OK ] Executor.StoresRegisterIntoMemory (0 ms)
+[----------] 1 test from Executor (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.04 sec
+----------------------------------------------------------
+Test Passed.
+"Executor.StoresRegisterIntoMemory" end time: Aug 19 22:41 India Standard Time
+"Executor.StoresRegisterIntoMemory" time elapsed: 00:00:00
+----------------------------------------------------------
+
+39/91 Testing: Executor.JumpAlwaysChangesProgramCounter
+39/91 Test: Executor.JumpAlwaysChangesProgramCounter
+Command: "D:/ANUBHAB/Documents/Microlink/build/microlink_cpu_tests.exe" "--gtest_filter=Executor.JumpAlwaysChangesProgramCounter" "--gtest_also_run_disabled_tests"
+Directory: D:/ANUBHAB/Documents/Microlink/build
+"Executor.JumpAlwaysChangesProgramCounter" start time: Aug 19 22:41 India Standard Time
+Output:
+----------------------------------------------------------
+Running main() from C:/M/B/src/googletest-1.17.0/googletest/src/gtest_main.cc
+Note: Google Test filter = Executor.JumpAlwaysChangesProgramCounter
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Executor
+[ RUN      ] Executor.JumpAlwaysChangesProgramCounter
+[       OK ] Executor.JumpAlwaysChangesProgramCounter (0 ms)
+[----------] 1 test from Executor (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"Executor.JumpAlwaysChangesProgramCounter" end time: Aug 19 22:41 India Standard Time
+"Executor.JumpAlwaysChangesProgramCounter" time elapsed: 00:00:00
+----------------------------------------------------------
+
+40/91 Testing: Executor.JumpIfZeroTaken
+40/91 Test: Executor.JumpIfZeroTaken
+Command: "D:/ANUBHAB/Documents/Microlink/build/microlink_cpu_tests.exe" "--gtest_filter=Executor.JumpIfZeroTaken" "--gtest_also_run_disabled_tests"
+Directory: D:/ANUBHAB/Documents/Microlink/build
+"Executor.JumpIfZeroTaken" start time: Aug 19 22:41 India Standard Time
+Output:
+----------------------------------------------------------
+Running main() from C:/M/B/src/googletest-1.17.0/googletest/src/gtest_main.cc
+Note: Google Test filter = Executor.JumpIfZeroTaken
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Executor
+[ RUN      ] Executor.JumpIfZeroTaken
+[       OK ] Executor.JumpIfZeroTaken (0 ms)
+[----------] 1 test from Executor (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.04 sec
+----------------------------------------------------------
+Test Passed.
+"Executor.JumpIfZeroTaken" end time: Aug 19 22:41 India Standard Time
+"Executor.JumpIfZeroTaken" time elapsed: 00:00:00
+----------------------------------------------------------
+
+41/91 Testing: Executor.JumpIfZeroNotTaken
+41/91 Test: Executor.JumpIfZeroNotTaken
+Command: "D:/ANUBHAB/Documents/Microlink/build/microlink_cpu_tests.exe" "--gtest_filter=Executor.JumpIfZeroNotTaken" "--gtest_also_run_disabled_tests"
+Directory: D:/ANUBHAB/Documents/Microlink/build
+"Executor.JumpIfZeroNotTaken" start time: Aug 19 22:41 India Standard Time
+Output:
+----------------------------------------------------------
+Running main() from C:/M/B/src/googletest-1.17.0/googletest/src/gtest_main.cc
+Note: Google Test filter = Executor.JumpIfZeroNotTaken
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Executor
+[ RUN      ] Executor.JumpIfZeroNotTaken
+[       OK ] Executor.JumpIfZeroNotTaken (0 ms)
+[----------] 1 test from Executor (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"Executor.JumpIfZeroNotTaken" end time: Aug 19 22:41 India Standard Time
+"Executor.JumpIfZeroNotTaken" time elapsed: 00:00:00
+----------------------------------------------------------
+
+42/91 Testing: Executor.JumpIfNotZeroTaken
+42/91 Test: Executor.JumpIfNotZeroTaken
+Command: "D:/ANUBHAB/Documents/Microlink/build/microlink_cpu_tests.exe" "--gtest_filter=Executor.JumpIfNotZeroTaken" "--gtest_also_run_disabled_tests"
+Directory: D:/ANUBHAB/Documents/Microlink/build
+"Executor.JumpIfNotZeroTaken" start time: Aug 19 22:41 India Standard Time
+Output:
+----------------------------------------------------------
+Running main() from C:/M/B/src/googletest-1.17.0/googletest/src/gtest_main.cc
+Note: Google Test filter = Executor.JumpIfNotZeroTaken
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Executor
+[ RUN      ] Executor.JumpIfNotZeroTaken
+[       OK ] Executor.JumpIfNotZeroTaken (0 ms)
+[----------] 1 test from Executor (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"Executor.JumpIfNotZeroTaken" end time: Aug 19 22:41 India Standard Time
+"Executor.JumpIfNotZeroTaken" time elapsed: 00:00:00
+----------------------------------------------------------
+
+43/91 Testing: Executor.JumpIfNotZeroNotTaken
+43/91 Test: Executor.JumpIfNotZeroNotTaken
+Command: "D:/ANUBHAB/Documents/Microlink/build/microlink_cpu_tests.exe" "--gtest_filter=Executor.JumpIfNotZeroNotTaken" "--gtest_also_run_disabled_tests"
+Directory: D:/ANUBHAB/Documents/Microlink/build
+"Executor.JumpIfNotZeroNotTaken" start time: Aug 19 22:41 India Standard Time
+Output:
+----------------------------------------------------------
+Running main() from C:/M/B/src/googletest-1.17.0/googletest/src/gtest_main.cc
+Note: Google Test filter = Executor.JumpIfNotZeroNotTaken
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Executor
+[ RUN      ] Executor.JumpIfNotZeroNotTaken
+[       OK ] Executor.JumpIfNotZeroNotTaken (0 ms)
+[----------] 1 test from Executor (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.04 sec
+----------------------------------------------------------
+Test Passed.
+"Executor.JumpIfNotZeroNotTaken" end time: Aug 19 22:41 India Standard Time
+"Executor.JumpIfNotZeroNotTaken" time elapsed: 00:00:00
+----------------------------------------------------------
+
+44/91 Testing: Executor.JumpIfCarryTaken
+44/91 Test: Executor.JumpIfCarryTaken
+Command: "D:/ANUBHAB/Documents/Microlink/build/microlink_cpu_tests.exe" "--gtest_filter=Executor.JumpIfCarryTaken" "--gtest_also_run_disabled_tests"
+Directory: D:/ANUBHAB/Documents/Microlink/build
+"Executor.JumpIfCarryTaken" start time: Aug 19 22:41 India Standard Time
+Output:
+----------------------------------------------------------
+Running main() from C:/M/B/src/googletest-1.17.0/googletest/src/gtest_main.cc
+Note: Google Test filter = Executor.JumpIfCarryTaken
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Executor
+[ RUN      ] Executor.JumpIfCarryTaken
+[       OK ] Executor.JumpIfCarryTaken (0 ms)
+[----------] 1 test from Executor (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"Executor.JumpIfCarryTaken" end time: Aug 19 22:41 India Standard Time
+"Executor.JumpIfCarryTaken" time elapsed: 00:00:00
+----------------------------------------------------------
+
+45/91 Testing: Executor.JumpIfCarryNotTaken
+45/91 Test: Executor.JumpIfCarryNotTaken
+Command: "D:/ANUBHAB/Documents/Microlink/build/microlink_cpu_tests.exe" "--gtest_filter=Executor.JumpIfCarryNotTaken" "--gtest_also_run_disabled_tests"
+Directory: D:/ANUBHAB/Documents/Microlink/build
+"Executor.JumpIfCarryNotTaken" start time: Aug 19 22:41 India Standard Time
+Output:
+----------------------------------------------------------
+Running main() from C:/M/B/src/googletest-1.17.0/googletest/src/gtest_main.cc
+Note: Google Test filter = Executor.JumpIfCarryNotTaken
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Executor
+[ RUN      ] Executor.JumpIfCarryNotTaken
+[       OK ] Executor.JumpIfCarryNotTaken (0 ms)
+[----------] 1 test from Executor (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"Executor.JumpIfCarryNotTaken" end time: Aug 19 22:41 India Standard Time
+"Executor.JumpIfCarryNotTaken" time elapsed: 00:00:00
+----------------------------------------------------------
+
+46/91 Testing: Executor.JumpIfNotCarryTaken
+46/91 Test: Executor.JumpIfNotCarryTaken
+Command: "D:/ANUBHAB/Documents/Microlink/build/microlink_cpu_tests.exe" "--gtest_filter=Executor.JumpIfNotCarryTaken" "--gtest_also_run_disabled_tests"
+Directory: D:/ANUBHAB/Documents/Microlink/build
+"Executor.JumpIfNotCarryTaken" start time: Aug 19 22:41 India Standard Time
+Output:
+----------------------------------------------------------
+Running main() from C:/M/B/src/googletest-1.17.0/googletest/src/gtest_main.cc
+Note: Google Test filter = Executor.JumpIfNotCarryTaken
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Executor
+[ RUN      ] Executor.JumpIfNotCarryTaken
+[       OK ] Executor.JumpIfNotCarryTaken (0 ms)
+[----------] 1 test from Executor (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"Executor.JumpIfNotCarryTaken" end time: Aug 19 22:41 India Standard Time
+"Executor.JumpIfNotCarryTaken" time elapsed: 00:00:00
+----------------------------------------------------------
+
+47/91 Testing: Executor.JumpIfNotCarryNotTaken
+47/91 Test: Executor.JumpIfNotCarryNotTaken
+Command: "D:/ANUBHAB/Documents/Microlink/build/microlink_cpu_tests.exe" "--gtest_filter=Executor.JumpIfNotCarryNotTaken" "--gtest_also_run_disabled_tests"
+Directory: D:/ANUBHAB/Documents/Microlink/build
+"Executor.JumpIfNotCarryNotTaken" start time: Aug 19 22:41 India Standard Time
+Output:
+----------------------------------------------------------
+Running main() from C:/M/B/src/googletest-1.17.0/googletest/src/gtest_main.cc
+Note: Google Test filter = Executor.JumpIfNotCarryNotTaken
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Executor
+[ RUN      ] Executor.JumpIfNotCarryNotTaken
+[       OK ] Executor.JumpIfNotCarryNotTaken (0 ms)
+[----------] 1 test from Executor (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"Executor.JumpIfNotCarryNotTaken" end time: Aug 19 22:41 India Standard Time
+"Executor.JumpIfNotCarryNotTaken" time elapsed: 00:00:00
+----------------------------------------------------------
+
+48/91 Testing: Executor.NopDoesNotChangeState
+48/91 Test: Executor.NopDoesNotChangeState
+Command: "D:/ANUBHAB/Documents/Microlink/build/microlink_cpu_tests.exe" "--gtest_filter=Executor.NopDoesNotChangeState" "--gtest_also_run_disabled_tests"
+Directory: D:/ANUBHAB/Documents/Microlink/build
+"Executor.NopDoesNotChangeState" start time: Aug 19 22:41 India Standard Time
+Output:
+----------------------------------------------------------
+Running main() from C:/M/B/src/googletest-1.17.0/googletest/src/gtest_main.cc
+Note: Google Test filter = Executor.NopDoesNotChangeState
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Executor
+[ RUN      ] Executor.NopDoesNotChangeState
+[       OK ] Executor.NopDoesNotChangeState (0 ms)
+[----------] 1 test from Executor (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"Executor.NopDoesNotChangeState" end time: Aug 19 22:41 India Standard Time
+"Executor.NopDoesNotChangeState" time elapsed: 00:00:00
+----------------------------------------------------------
+
+49/91 Testing: Executor.RejectsInvalidBranchOperand
+49/91 Test: Executor.RejectsInvalidBranchOperand
+Command: "D:/ANUBHAB/Documents/Microlink/build/microlink_cpu_tests.exe" "--gtest_filter=Executor.RejectsInvalidBranchOperand" "--gtest_also_run_disabled_tests"
+Directory: D:/ANUBHAB/Documents/Microlink/build
+"Executor.RejectsInvalidBranchOperand" start time: Aug 19 22:41 India Standard Time
+Output:
+----------------------------------------------------------
+Running main() from C:/M/B/src/googletest-1.17.0/googletest/src/gtest_main.cc
+Note: Google Test filter = Executor.RejectsInvalidBranchOperand
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Executor
+[ RUN      ] Executor.RejectsInvalidBranchOperand
+[       OK ] Executor.RejectsInvalidBranchOperand (0 ms)
+[----------] 1 test from Executor (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"Executor.RejectsInvalidBranchOperand" end time: Aug 19 22:41 India Standard Time
+"Executor.RejectsInvalidBranchOperand" time elapsed: 00:00:00
+----------------------------------------------------------
+
+50/91 Testing: Executor.PushStoresRegisterAndDecrementsStackPointer
+50/91 Test: Executor.PushStoresRegisterAndDecrementsStackPointer
+Command: "D:/ANUBHAB/Documents/Microlink/build/microlink_cpu_tests.exe" "--gtest_filter=Executor.PushStoresRegisterAndDecrementsStackPointer" "--gtest_also_run_disabled_tests"
+Directory: D:/ANUBHAB/Documents/Microlink/build
+"Executor.PushStoresRegisterAndDecrementsStackPointer" start time: Aug 19 22:41 India Standard Time
+Output:
+----------------------------------------------------------
+Running main() from C:/M/B/src/googletest-1.17.0/googletest/src/gtest_main.cc
+Note: Google Test filter = Executor.PushStoresRegisterAndDecrementsStackPointer
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Executor
+[ RUN      ] Executor.PushStoresRegisterAndDecrementsStackPointer
+[       OK ] Executor.PushStoresRegisterAndDecrementsStackPointer (0 ms)
+[----------] 1 test from Executor (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"Executor.PushStoresRegisterAndDecrementsStackPointer" end time: Aug 19 22:41 India Standard Time
+"Executor.PushStoresRegisterAndDecrementsStackPointer" time elapsed: 00:00:00
+----------------------------------------------------------
+
+51/91 Testing: Executor.PopRestoresRegisterAndIncrementsStackPointer
+51/91 Test: Executor.PopRestoresRegisterAndIncrementsStackPointer
+Command: "D:/ANUBHAB/Documents/Microlink/build/microlink_cpu_tests.exe" "--gtest_filter=Executor.PopRestoresRegisterAndIncrementsStackPointer" "--gtest_also_run_disabled_tests"
+Directory: D:/ANUBHAB/Documents/Microlink/build
+"Executor.PopRestoresRegisterAndIncrementsStackPointer" start time: Aug 19 22:41 India Standard Time
+Output:
+----------------------------------------------------------
+Running main() from C:/M/B/src/googletest-1.17.0/googletest/src/gtest_main.cc
+Note: Google Test filter = Executor.PopRestoresRegisterAndIncrementsStackPointer
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Executor
+[ RUN      ] Executor.PopRestoresRegisterAndIncrementsStackPointer
+[       OK ] Executor.PopRestoresRegisterAndIncrementsStackPointer (0 ms)
+[----------] 1 test from Executor (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"Executor.PopRestoresRegisterAndIncrementsStackPointer" end time: Aug 19 22:41 India Standard Time
+"Executor.PopRestoresRegisterAndIncrementsStackPointer" time elapsed: 00:00:00
+----------------------------------------------------------
+
+52/91 Testing: Executor.CallPushesReturnAddressAndJumps
+52/91 Test: Executor.CallPushesReturnAddressAndJumps
+Command: "D:/ANUBHAB/Documents/Microlink/build/microlink_cpu_tests.exe" "--gtest_filter=Executor.CallPushesReturnAddressAndJumps" "--gtest_also_run_disabled_tests"
+Directory: D:/ANUBHAB/Documents/Microlink/build
+"Executor.CallPushesReturnAddressAndJumps" start time: Aug 19 22:41 India Standard Time
+Output:
+----------------------------------------------------------
+Running main() from C:/M/B/src/googletest-1.17.0/googletest/src/gtest_main.cc
+Note: Google Test filter = Executor.CallPushesReturnAddressAndJumps
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Executor
+[ RUN      ] Executor.CallPushesReturnAddressAndJumps
+[       OK ] Executor.CallPushesReturnAddressAndJumps (0 ms)
+[----------] 1 test from Executor (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"Executor.CallPushesReturnAddressAndJumps" end time: Aug 19 22:41 India Standard Time
+"Executor.CallPushesReturnAddressAndJumps" time elapsed: 00:00:00
+----------------------------------------------------------
+
+53/91 Testing: Executor.RetPopsReturnAddress
+53/91 Test: Executor.RetPopsReturnAddress
+Command: "D:/ANUBHAB/Documents/Microlink/build/microlink_cpu_tests.exe" "--gtest_filter=Executor.RetPopsReturnAddress" "--gtest_also_run_disabled_tests"
+Directory: D:/ANUBHAB/Documents/Microlink/build
+"Executor.RetPopsReturnAddress" start time: Aug 19 22:41 India Standard Time
+Output:
+----------------------------------------------------------
+Running main() from C:/M/B/src/googletest-1.17.0/googletest/src/gtest_main.cc
+Note: Google Test filter = Executor.RetPopsReturnAddress
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Executor
+[ RUN      ] Executor.RetPopsReturnAddress
+[       OK ] Executor.RetPopsReturnAddress (0 ms)
+[----------] 1 test from Executor (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"Executor.RetPopsReturnAddress" end time: Aug 19 22:41 India Standard Time
+"Executor.RetPopsReturnAddress" time elapsed: 00:00:00
+----------------------------------------------------------
+
+54/91 Testing: Decoder.RejectsEmptyInput
+54/91 Test: Decoder.RejectsEmptyInput
+Command: "D:/ANUBHAB/Documents/Microlink/build/microlink_cpu_tests.exe" "--gtest_filter=Decoder.RejectsEmptyInput" "--gtest_also_run_disabled_tests"
+Directory: D:/ANUBHAB/Documents/Microlink/build
+"Decoder.RejectsEmptyInput" start time: Aug 19 22:41 India Standard Time
+Output:
+----------------------------------------------------------
+Running main() from C:/M/B/src/googletest-1.17.0/googletest/src/gtest_main.cc
+Note: Google Test filter = Decoder.RejectsEmptyInput
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Decoder
+[ RUN      ] Decoder.RejectsEmptyInput
+[       OK ] Decoder.RejectsEmptyInput (0 ms)
+[----------] 1 test from Decoder (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"Decoder.RejectsEmptyInput" end time: Aug 19 22:41 India Standard Time
+"Decoder.RejectsEmptyInput" time elapsed: 00:00:00
+----------------------------------------------------------
+
+55/91 Testing: Decoder.DecodesNop
+55/91 Test: Decoder.DecodesNop
+Command: "D:/ANUBHAB/Documents/Microlink/build/microlink_cpu_tests.exe" "--gtest_filter=Decoder.DecodesNop" "--gtest_also_run_disabled_tests"
+Directory: D:/ANUBHAB/Documents/Microlink/build
+"Decoder.DecodesNop" start time: Aug 19 22:41 India Standard Time
+Output:
+----------------------------------------------------------
+Running main() from C:/M/B/src/googletest-1.17.0/googletest/src/gtest_main.cc
+Note: Google Test filter = Decoder.DecodesNop
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Decoder
+[ RUN      ] Decoder.DecodesNop
+[       OK ] Decoder.DecodesNop (0 ms)
+[----------] 1 test from Decoder (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"Decoder.DecodesNop" end time: Aug 19 22:41 India Standard Time
+"Decoder.DecodesNop" time elapsed: 00:00:00
+----------------------------------------------------------
+
+56/91 Testing: Decoder.DecodesMovRegisterToRegister
+56/91 Test: Decoder.DecodesMovRegisterToRegister
+Command: "D:/ANUBHAB/Documents/Microlink/build/microlink_cpu_tests.exe" "--gtest_filter=Decoder.DecodesMovRegisterToRegister" "--gtest_also_run_disabled_tests"
+Directory: D:/ANUBHAB/Documents/Microlink/build
+"Decoder.DecodesMovRegisterToRegister" start time: Aug 19 22:41 India Standard Time
+Output:
+----------------------------------------------------------
+Running main() from C:/M/B/src/googletest-1.17.0/googletest/src/gtest_main.cc
+Note: Google Test filter = Decoder.DecodesMovRegisterToRegister
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Decoder
+[ RUN      ] Decoder.DecodesMovRegisterToRegister
+[       OK ] Decoder.DecodesMovRegisterToRegister (0 ms)
+[----------] 1 test from Decoder (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"Decoder.DecodesMovRegisterToRegister" end time: Aug 19 22:41 India Standard Time
+"Decoder.DecodesMovRegisterToRegister" time elapsed: 00:00:00
+----------------------------------------------------------
+
+57/91 Testing: Decoder.DecodesMovImmediateToRegister
+57/91 Test: Decoder.DecodesMovImmediateToRegister
+Command: "D:/ANUBHAB/Documents/Microlink/build/microlink_cpu_tests.exe" "--gtest_filter=Decoder.DecodesMovImmediateToRegister" "--gtest_also_run_disabled_tests"
+Directory: D:/ANUBHAB/Documents/Microlink/build
+"Decoder.DecodesMovImmediateToRegister" start time: Aug 19 22:41 India Standard Time
+Output:
+----------------------------------------------------------
+Running main() from C:/M/B/src/googletest-1.17.0/googletest/src/gtest_main.cc
+Note: Google Test filter = Decoder.DecodesMovImmediateToRegister
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Decoder
+[ RUN      ] Decoder.DecodesMovImmediateToRegister
+[       OK ] Decoder.DecodesMovImmediateToRegister (0 ms)
+[----------] 1 test from Decoder (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"Decoder.DecodesMovImmediateToRegister" end time: Aug 19 22:41 India Standard Time
+"Decoder.DecodesMovImmediateToRegister" time elapsed: 00:00:00
+----------------------------------------------------------
+
+58/91 Testing: Decoder.DecodesLoad
+58/91 Test: Decoder.DecodesLoad
+Command: "D:/ANUBHAB/Documents/Microlink/build/microlink_cpu_tests.exe" "--gtest_filter=Decoder.DecodesLoad" "--gtest_also_run_disabled_tests"
+Directory: D:/ANUBHAB/Documents/Microlink/build
+"Decoder.DecodesLoad" start time: Aug 19 22:41 India Standard Time
+Output:
+----------------------------------------------------------
+Running main() from C:/M/B/src/googletest-1.17.0/googletest/src/gtest_main.cc
+Note: Google Test filter = Decoder.DecodesLoad
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Decoder
+[ RUN      ] Decoder.DecodesLoad
+[       OK ] Decoder.DecodesLoad (0 ms)
+[----------] 1 test from Decoder (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"Decoder.DecodesLoad" end time: Aug 19 22:41 India Standard Time
+"Decoder.DecodesLoad" time elapsed: 00:00:00
+----------------------------------------------------------
+
+59/91 Testing: Decoder.DecodesStore
+59/91 Test: Decoder.DecodesStore
+Command: "D:/ANUBHAB/Documents/Microlink/build/microlink_cpu_tests.exe" "--gtest_filter=Decoder.DecodesStore" "--gtest_also_run_disabled_tests"
+Directory: D:/ANUBHAB/Documents/Microlink/build
+"Decoder.DecodesStore" start time: Aug 19 22:41 India Standard Time
+Output:
+----------------------------------------------------------
+Running main() from C:/M/B/src/googletest-1.17.0/googletest/src/gtest_main.cc
+Note: Google Test filter = Decoder.DecodesStore
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Decoder
+[ RUN      ] Decoder.DecodesStore
+[       OK ] Decoder.DecodesStore (0 ms)
+[----------] 1 test from Decoder (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"Decoder.DecodesStore" end time: Aug 19 22:41 India Standard Time
+"Decoder.DecodesStore" time elapsed: 00:00:00
+----------------------------------------------------------
+
+60/91 Testing: Decoder.DecodesArithmeticInstruction
+60/91 Test: Decoder.DecodesArithmeticInstruction
+Command: "D:/ANUBHAB/Documents/Microlink/build/microlink_cpu_tests.exe" "--gtest_filter=Decoder.DecodesArithmeticInstruction" "--gtest_also_run_disabled_tests"
+Directory: D:/ANUBHAB/Documents/Microlink/build
+"Decoder.DecodesArithmeticInstruction" start time: Aug 19 22:41 India Standard Time
+Output:
+----------------------------------------------------------
+Running main() from C:/M/B/src/googletest-1.17.0/googletest/src/gtest_main.cc
+Note: Google Test filter = Decoder.DecodesArithmeticInstruction
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Decoder
+[ RUN      ] Decoder.DecodesArithmeticInstruction
+[       OK ] Decoder.DecodesArithmeticInstruction (0 ms)
+[----------] 1 test from Decoder (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"Decoder.DecodesArithmeticInstruction" end time: Aug 19 22:41 India Standard Time
+"Decoder.DecodesArithmeticInstruction" time elapsed: 00:00:00
+----------------------------------------------------------
+
+61/91 Testing: Decoder.DecodesJump
+61/91 Test: Decoder.DecodesJump
+Command: "D:/ANUBHAB/Documents/Microlink/build/microlink_cpu_tests.exe" "--gtest_filter=Decoder.DecodesJump" "--gtest_also_run_disabled_tests"
+Directory: D:/ANUBHAB/Documents/Microlink/build
+"Decoder.DecodesJump" start time: Aug 19 22:41 India Standard Time
+Output:
+----------------------------------------------------------
+Running main() from C:/M/B/src/googletest-1.17.0/googletest/src/gtest_main.cc
+Note: Google Test filter = Decoder.DecodesJump
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Decoder
+[ RUN      ] Decoder.DecodesJump
+[       OK ] Decoder.DecodesJump (0 ms)
+[----------] 1 test from Decoder (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"Decoder.DecodesJump" end time: Aug 19 22:41 India Standard Time
+"Decoder.DecodesJump" time elapsed: 00:00:00
+----------------------------------------------------------
+
+62/91 Testing: Decoder.DecodesPushAndPop
+62/91 Test: Decoder.DecodesPushAndPop
+Command: "D:/ANUBHAB/Documents/Microlink/build/microlink_cpu_tests.exe" "--gtest_filter=Decoder.DecodesPushAndPop" "--gtest_also_run_disabled_tests"
+Directory: D:/ANUBHAB/Documents/Microlink/build
+"Decoder.DecodesPushAndPop" start time: Aug 19 22:41 India Standard Time
+Output:
+----------------------------------------------------------
+Running main() from C:/M/B/src/googletest-1.17.0/googletest/src/gtest_main.cc
+Note: Google Test filter = Decoder.DecodesPushAndPop
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Decoder
+[ RUN      ] Decoder.DecodesPushAndPop
+[       OK ] Decoder.DecodesPushAndPop (0 ms)
+[----------] 1 test from Decoder (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"Decoder.DecodesPushAndPop" end time: Aug 19 22:41 India Standard Time
+"Decoder.DecodesPushAndPop" time elapsed: 00:00:00
+----------------------------------------------------------
+
+63/91 Testing: Decoder.DecodesIoInstruction
+63/91 Test: Decoder.DecodesIoInstruction
+Command: "D:/ANUBHAB/Documents/Microlink/build/microlink_cpu_tests.exe" "--gtest_filter=Decoder.DecodesIoInstruction" "--gtest_also_run_disabled_tests"
+Directory: D:/ANUBHAB/Documents/Microlink/build
+"Decoder.DecodesIoInstruction" start time: Aug 19 22:41 India Standard Time
+Output:
+----------------------------------------------------------
+Running main() from C:/M/B/src/googletest-1.17.0/googletest/src/gtest_main.cc
+Note: Google Test filter = Decoder.DecodesIoInstruction
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Decoder
+[ RUN      ] Decoder.DecodesIoInstruction
+[       OK ] Decoder.DecodesIoInstruction (0 ms)
+[----------] 1 test from Decoder (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"Decoder.DecodesIoInstruction" end time: Aug 19 22:41 India Standard Time
+"Decoder.DecodesIoInstruction" time elapsed: 00:00:00
+----------------------------------------------------------
+
+64/91 Testing: Decoder.OperandBytesCanHaveOpcodeValues
+64/91 Test: Decoder.OperandBytesCanHaveOpcodeValues
+Command: "D:/ANUBHAB/Documents/Microlink/build/microlink_cpu_tests.exe" "--gtest_filter=Decoder.OperandBytesCanHaveOpcodeValues" "--gtest_also_run_disabled_tests"
+Directory: D:/ANUBHAB/Documents/Microlink/build
+"Decoder.OperandBytesCanHaveOpcodeValues" start time: Aug 19 22:41 India Standard Time
+Output:
+----------------------------------------------------------
+Running main() from C:/M/B/src/googletest-1.17.0/googletest/src/gtest_main.cc
+Note: Google Test filter = Decoder.OperandBytesCanHaveOpcodeValues
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Decoder
+[ RUN      ] Decoder.OperandBytesCanHaveOpcodeValues
+[       OK ] Decoder.OperandBytesCanHaveOpcodeValues (0 ms)
+[----------] 1 test from Decoder (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"Decoder.OperandBytesCanHaveOpcodeValues" end time: Aug 19 22:41 India Standard Time
+"Decoder.OperandBytesCanHaveOpcodeValues" time elapsed: 00:00:00
+----------------------------------------------------------
+
+65/91 Testing: Decoder.RejectsUnknownOpcode
+65/91 Test: Decoder.RejectsUnknownOpcode
+Command: "D:/ANUBHAB/Documents/Microlink/build/microlink_cpu_tests.exe" "--gtest_filter=Decoder.RejectsUnknownOpcode" "--gtest_also_run_disabled_tests"
+Directory: D:/ANUBHAB/Documents/Microlink/build
+"Decoder.RejectsUnknownOpcode" start time: Aug 19 22:41 India Standard Time
+Output:
+----------------------------------------------------------
+Running main() from C:/M/B/src/googletest-1.17.0/googletest/src/gtest_main.cc
+Note: Google Test filter = Decoder.RejectsUnknownOpcode
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Decoder
+[ RUN      ] Decoder.RejectsUnknownOpcode
+[       OK ] Decoder.RejectsUnknownOpcode (0 ms)
+[----------] 1 test from Decoder (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"Decoder.RejectsUnknownOpcode" end time: Aug 19 22:41 India Standard Time
+"Decoder.RejectsUnknownOpcode" time elapsed: 00:00:00
+----------------------------------------------------------
+
+66/91 Testing: Decoder.RejectsTruncatedMov
+66/91 Test: Decoder.RejectsTruncatedMov
+Command: "D:/ANUBHAB/Documents/Microlink/build/microlink_cpu_tests.exe" "--gtest_filter=Decoder.RejectsTruncatedMov" "--gtest_also_run_disabled_tests"
+Directory: D:/ANUBHAB/Documents/Microlink/build
+"Decoder.RejectsTruncatedMov" start time: Aug 19 22:41 India Standard Time
+Output:
+----------------------------------------------------------
+Running main() from C:/M/B/src/googletest-1.17.0/googletest/src/gtest_main.cc
+Note: Google Test filter = Decoder.RejectsTruncatedMov
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Decoder
+[ RUN      ] Decoder.RejectsTruncatedMov
+[       OK ] Decoder.RejectsTruncatedMov (0 ms)
+[----------] 1 test from Decoder (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"Decoder.RejectsTruncatedMov" end time: Aug 19 22:41 India Standard Time
+"Decoder.RejectsTruncatedMov" time elapsed: 00:00:00
+----------------------------------------------------------
+
+67/91 Testing: Decoder.RejectsInvalidRegister
+67/91 Test: Decoder.RejectsInvalidRegister
+Command: "D:/ANUBHAB/Documents/Microlink/build/microlink_cpu_tests.exe" "--gtest_filter=Decoder.RejectsInvalidRegister" "--gtest_also_run_disabled_tests"
+Directory: D:/ANUBHAB/Documents/Microlink/build
+"Decoder.RejectsInvalidRegister" start time: Aug 19 22:41 India Standard Time
+Output:
+----------------------------------------------------------
+Running main() from C:/M/B/src/googletest-1.17.0/googletest/src/gtest_main.cc
+Note: Google Test filter = Decoder.RejectsInvalidRegister
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Decoder
+[ RUN      ] Decoder.RejectsInvalidRegister
+[       OK ] Decoder.RejectsInvalidRegister (0 ms)
+[----------] 1 test from Decoder (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"Decoder.RejectsInvalidRegister" end time: Aug 19 22:41 India Standard Time
+"Decoder.RejectsInvalidRegister" time elapsed: 00:00:00
+----------------------------------------------------------
+
+68/91 Testing: Decoder.RejectsInvalidOperandType
+68/91 Test: Decoder.RejectsInvalidOperandType
+Command: "D:/ANUBHAB/Documents/Microlink/build/microlink_cpu_tests.exe" "--gtest_filter=Decoder.RejectsInvalidOperandType" "--gtest_also_run_disabled_tests"
+Directory: D:/ANUBHAB/Documents/Microlink/build
+"Decoder.RejectsInvalidOperandType" start time: Aug 19 22:41 India Standard Time
+Output:
+----------------------------------------------------------
+Running main() from C:/M/B/src/googletest-1.17.0/googletest/src/gtest_main.cc
+Note: Google Test filter = Decoder.RejectsInvalidOperandType
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Decoder
+[ RUN      ] Decoder.RejectsInvalidOperandType
+[       OK ] Decoder.RejectsInvalidOperandType (0 ms)
+[----------] 1 test from Decoder (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"Decoder.RejectsInvalidOperandType" end time: Aug 19 22:41 India Standard Time
+"Decoder.RejectsInvalidOperandType" time elapsed: 00:00:00
+----------------------------------------------------------
+
+69/91 Testing: Decoder.RejectsInvalidMovDestination
+69/91 Test: Decoder.RejectsInvalidMovDestination
+Command: "D:/ANUBHAB/Documents/Microlink/build/microlink_cpu_tests.exe" "--gtest_filter=Decoder.RejectsInvalidMovDestination" "--gtest_also_run_disabled_tests"
+Directory: D:/ANUBHAB/Documents/Microlink/build
+"Decoder.RejectsInvalidMovDestination" start time: Aug 19 22:41 India Standard Time
+Output:
+----------------------------------------------------------
+Running main() from C:/M/B/src/googletest-1.17.0/googletest/src/gtest_main.cc
+Note: Google Test filter = Decoder.RejectsInvalidMovDestination
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Decoder
+[ RUN      ] Decoder.RejectsInvalidMovDestination
+[       OK ] Decoder.RejectsInvalidMovDestination (0 ms)
+[----------] 1 test from Decoder (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"Decoder.RejectsInvalidMovDestination" end time: Aug 19 22:41 India Standard Time
+"Decoder.RejectsInvalidMovDestination" time elapsed: 00:00:00
+----------------------------------------------------------
+
+70/91 Testing: Decoder.RejectsInvalidLoadAddressType
+70/91 Test: Decoder.RejectsInvalidLoadAddressType
+Command: "D:/ANUBHAB/Documents/Microlink/build/microlink_cpu_tests.exe" "--gtest_filter=Decoder.RejectsInvalidLoadAddressType" "--gtest_also_run_disabled_tests"
+Directory: D:/ANUBHAB/Documents/Microlink/build
+"Decoder.RejectsInvalidLoadAddressType" start time: Aug 19 22:41 India Standard Time
+Output:
+----------------------------------------------------------
+Running main() from C:/M/B/src/googletest-1.17.0/googletest/src/gtest_main.cc
+Note: Google Test filter = Decoder.RejectsInvalidLoadAddressType
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Decoder
+[ RUN      ] Decoder.RejectsInvalidLoadAddressType
+[       OK ] Decoder.RejectsInvalidLoadAddressType (0 ms)
+[----------] 1 test from Decoder (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.04 sec
+----------------------------------------------------------
+Test Passed.
+"Decoder.RejectsInvalidLoadAddressType" end time: Aug 19 22:41 India Standard Time
+"Decoder.RejectsInvalidLoadAddressType" time elapsed: 00:00:00
+----------------------------------------------------------
+
+71/91 Testing: Opcode.ConvertsToByte
+71/91 Test: Opcode.ConvertsToByte
+Command: "D:/ANUBHAB/Documents/Microlink/build/microlink_cpu_tests.exe" "--gtest_filter=Opcode.ConvertsToByte" "--gtest_also_run_disabled_tests"
+Directory: D:/ANUBHAB/Documents/Microlink/build
+"Opcode.ConvertsToByte" start time: Aug 19 22:41 India Standard Time
+Output:
+----------------------------------------------------------
+Running main() from C:/M/B/src/googletest-1.17.0/googletest/src/gtest_main.cc
+Note: Google Test filter = Opcode.ConvertsToByte
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Opcode
+[ RUN      ] Opcode.ConvertsToByte
+[       OK ] Opcode.ConvertsToByte (0 ms)
+[----------] 1 test from Opcode (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"Opcode.ConvertsToByte" end time: Aug 19 22:41 India Standard Time
+"Opcode.ConvertsToByte" time elapsed: 00:00:00
+----------------------------------------------------------
+
+72/91 Testing: Instruction.CanRepresentNoOperandInstruction
+72/91 Test: Instruction.CanRepresentNoOperandInstruction
+Command: "D:/ANUBHAB/Documents/Microlink/build/microlink_cpu_tests.exe" "--gtest_filter=Instruction.CanRepresentNoOperandInstruction" "--gtest_also_run_disabled_tests"
+Directory: D:/ANUBHAB/Documents/Microlink/build
+"Instruction.CanRepresentNoOperandInstruction" start time: Aug 19 22:41 India Standard Time
+Output:
+----------------------------------------------------------
+Running main() from C:/M/B/src/googletest-1.17.0/googletest/src/gtest_main.cc
+Note: Google Test filter = Instruction.CanRepresentNoOperandInstruction
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Instruction
+[ RUN      ] Instruction.CanRepresentNoOperandInstruction
+[       OK ] Instruction.CanRepresentNoOperandInstruction (0 ms)
+[----------] 1 test from Instruction (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"Instruction.CanRepresentNoOperandInstruction" end time: Aug 19 22:41 India Standard Time
+"Instruction.CanRepresentNoOperandInstruction" time elapsed: 00:00:00
+----------------------------------------------------------
+
+73/91 Testing: Instruction.CanRepresentOneOperandInstruction
+73/91 Test: Instruction.CanRepresentOneOperandInstruction
+Command: "D:/ANUBHAB/Documents/Microlink/build/microlink_cpu_tests.exe" "--gtest_filter=Instruction.CanRepresentOneOperandInstruction" "--gtest_also_run_disabled_tests"
+Directory: D:/ANUBHAB/Documents/Microlink/build
+"Instruction.CanRepresentOneOperandInstruction" start time: Aug 19 22:41 India Standard Time
+Output:
+----------------------------------------------------------
+Running main() from C:/M/B/src/googletest-1.17.0/googletest/src/gtest_main.cc
+Note: Google Test filter = Instruction.CanRepresentOneOperandInstruction
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Instruction
+[ RUN      ] Instruction.CanRepresentOneOperandInstruction
+[       OK ] Instruction.CanRepresentOneOperandInstruction (0 ms)
+[----------] 1 test from Instruction (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"Instruction.CanRepresentOneOperandInstruction" end time: Aug 19 22:41 India Standard Time
+"Instruction.CanRepresentOneOperandInstruction" time elapsed: 00:00:00
+----------------------------------------------------------
+
+74/91 Testing: Instruction.CanRepresentTwoOperandInstruction
+74/91 Test: Instruction.CanRepresentTwoOperandInstruction
+Command: "D:/ANUBHAB/Documents/Microlink/build/microlink_cpu_tests.exe" "--gtest_filter=Instruction.CanRepresentTwoOperandInstruction" "--gtest_also_run_disabled_tests"
+Directory: D:/ANUBHAB/Documents/Microlink/build
+"Instruction.CanRepresentTwoOperandInstruction" start time: Aug 19 22:41 India Standard Time
+Output:
+----------------------------------------------------------
+Running main() from C:/M/B/src/googletest-1.17.0/googletest/src/gtest_main.cc
+Note: Google Test filter = Instruction.CanRepresentTwoOperandInstruction
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Instruction
+[ RUN      ] Instruction.CanRepresentTwoOperandInstruction
+[       OK ] Instruction.CanRepresentTwoOperandInstruction (0 ms)
+[----------] 1 test from Instruction (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"Instruction.CanRepresentTwoOperandInstruction" end time: Aug 19 22:41 India Standard Time
+"Instruction.CanRepresentTwoOperandInstruction" time elapsed: 00:00:00
+----------------------------------------------------------
+
+75/91 Testing: Instruction.CanRepresentSixteenBitAddress
+75/91 Test: Instruction.CanRepresentSixteenBitAddress
+Command: "D:/ANUBHAB/Documents/Microlink/build/microlink_cpu_tests.exe" "--gtest_filter=Instruction.CanRepresentSixteenBitAddress" "--gtest_also_run_disabled_tests"
+Directory: D:/ANUBHAB/Documents/Microlink/build
+"Instruction.CanRepresentSixteenBitAddress" start time: Aug 19 22:41 India Standard Time
+Output:
+----------------------------------------------------------
+Running main() from C:/M/B/src/googletest-1.17.0/googletest/src/gtest_main.cc
+Note: Google Test filter = Instruction.CanRepresentSixteenBitAddress
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Instruction
+[ RUN      ] Instruction.CanRepresentSixteenBitAddress
+[       OK ] Instruction.CanRepresentSixteenBitAddress (0 ms)
+[----------] 1 test from Instruction (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.04 sec
+----------------------------------------------------------
+Test Passed.
+"Instruction.CanRepresentSixteenBitAddress" end time: Aug 19 22:41 India Standard Time
+"Instruction.CanRepresentSixteenBitAddress" time elapsed: 00:00:00
+----------------------------------------------------------
+
+76/91 Testing: CPU.StartsWithResetState
+76/91 Test: CPU.StartsWithResetState
+Command: "D:/ANUBHAB/Documents/Microlink/build/microlink_cpu_tests.exe" "--gtest_filter=CPU.StartsWithResetState" "--gtest_also_run_disabled_tests"
+Directory: D:/ANUBHAB/Documents/Microlink/build
+"CPU.StartsWithResetState" start time: Aug 19 22:41 India Standard Time
+Output:
+----------------------------------------------------------
+Running main() from C:/M/B/src/googletest-1.17.0/googletest/src/gtest_main.cc
+Note: Google Test filter = CPU.StartsWithResetState
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from CPU
+[ RUN      ] CPU.StartsWithResetState
+[       OK ] CPU.StartsWithResetState (0 ms)
+[----------] 1 test from CPU (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"CPU.StartsWithResetState" end time: Aug 19 22:41 India Standard Time
+"CPU.StartsWithResetState" time elapsed: 00:00:00
+----------------------------------------------------------
+
+77/91 Testing: CPU.ResetRestoresArchitecturalState
+77/91 Test: CPU.ResetRestoresArchitecturalState
+Command: "D:/ANUBHAB/Documents/Microlink/build/microlink_cpu_tests.exe" "--gtest_filter=CPU.ResetRestoresArchitecturalState" "--gtest_also_run_disabled_tests"
+Directory: D:/ANUBHAB/Documents/Microlink/build
+"CPU.ResetRestoresArchitecturalState" start time: Aug 19 22:41 India Standard Time
+Output:
+----------------------------------------------------------
+Running main() from C:/M/B/src/googletest-1.17.0/googletest/src/gtest_main.cc
+Note: Google Test filter = CPU.ResetRestoresArchitecturalState
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from CPU
+[ RUN      ] CPU.ResetRestoresArchitecturalState
+[       OK ] CPU.ResetRestoresArchitecturalState (0 ms)
+[----------] 1 test from CPU (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"CPU.ResetRestoresArchitecturalState" end time: Aug 19 22:41 India Standard Time
+"CPU.ResetRestoresArchitecturalState" time elapsed: 00:00:00
+----------------------------------------------------------
+
+78/91 Testing: CPU.FetchesAndDecodesNop
+78/91 Test: CPU.FetchesAndDecodesNop
+Command: "D:/ANUBHAB/Documents/Microlink/build/microlink_cpu_tests.exe" "--gtest_filter=CPU.FetchesAndDecodesNop" "--gtest_also_run_disabled_tests"
+Directory: D:/ANUBHAB/Documents/Microlink/build
+"CPU.FetchesAndDecodesNop" start time: Aug 19 22:41 India Standard Time
+Output:
+----------------------------------------------------------
+Running main() from C:/M/B/src/googletest-1.17.0/googletest/src/gtest_main.cc
+Note: Google Test filter = CPU.FetchesAndDecodesNop
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from CPU
+[ RUN      ] CPU.FetchesAndDecodesNop
+[       OK ] CPU.FetchesAndDecodesNop (0 ms)
+[----------] 1 test from CPU (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"CPU.FetchesAndDecodesNop" end time: Aug 19 22:41 India Standard Time
+"CPU.FetchesAndDecodesNop" time elapsed: 00:00:00
+----------------------------------------------------------
+
+79/91 Testing: CPU.FetchDoesNotAdvanceProgramCounter
+79/91 Test: CPU.FetchDoesNotAdvanceProgramCounter
+Command: "D:/ANUBHAB/Documents/Microlink/build/microlink_cpu_tests.exe" "--gtest_filter=CPU.FetchDoesNotAdvanceProgramCounter" "--gtest_also_run_disabled_tests"
+Directory: D:/ANUBHAB/Documents/Microlink/build
+"CPU.FetchDoesNotAdvanceProgramCounter" start time: Aug 19 22:41 India Standard Time
+Output:
+----------------------------------------------------------
+Running main() from C:/M/B/src/googletest-1.17.0/googletest/src/gtest_main.cc
+Note: Google Test filter = CPU.FetchDoesNotAdvanceProgramCounter
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from CPU
+[ RUN      ] CPU.FetchDoesNotAdvanceProgramCounter
+[       OK ] CPU.FetchDoesNotAdvanceProgramCounter (0 ms)
+[----------] 1 test from CPU (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"CPU.FetchDoesNotAdvanceProgramCounter" end time: Aug 19 22:41 India Standard Time
+"CPU.FetchDoesNotAdvanceProgramCounter" time elapsed: 00:00:00
+----------------------------------------------------------
+
+80/91 Testing: CPU.CycleAdvancesProgramCounterAfterNop
+80/91 Test: CPU.CycleAdvancesProgramCounterAfterNop
+Command: "D:/ANUBHAB/Documents/Microlink/build/microlink_cpu_tests.exe" "--gtest_filter=CPU.CycleAdvancesProgramCounterAfterNop" "--gtest_also_run_disabled_tests"
+Directory: D:/ANUBHAB/Documents/Microlink/build
+"CPU.CycleAdvancesProgramCounterAfterNop" start time: Aug 19 22:41 India Standard Time
+Output:
+----------------------------------------------------------
+Running main() from C:/M/B/src/googletest-1.17.0/googletest/src/gtest_main.cc
+Note: Google Test filter = CPU.CycleAdvancesProgramCounterAfterNop
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from CPU
+[ RUN      ] CPU.CycleAdvancesProgramCounterAfterNop
+[       OK ] CPU.CycleAdvancesProgramCounterAfterNop (0 ms)
+[----------] 1 test from CPU (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"CPU.CycleAdvancesProgramCounterAfterNop" end time: Aug 19 22:41 India Standard Time
+"CPU.CycleAdvancesProgramCounterAfterNop" time elapsed: 00:00:00
+----------------------------------------------------------
+
+81/91 Testing: CPU.FetchesAndDecodesLoadInstruction
+81/91 Test: CPU.FetchesAndDecodesLoadInstruction
+Command: "D:/ANUBHAB/Documents/Microlink/build/microlink_cpu_tests.exe" "--gtest_filter=CPU.FetchesAndDecodesLoadInstruction" "--gtest_also_run_disabled_tests"
+Directory: D:/ANUBHAB/Documents/Microlink/build
+"CPU.FetchesAndDecodesLoadInstruction" start time: Aug 19 22:41 India Standard Time
+Output:
+----------------------------------------------------------
+Running main() from C:/M/B/src/googletest-1.17.0/googletest/src/gtest_main.cc
+Note: Google Test filter = CPU.FetchesAndDecodesLoadInstruction
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from CPU
+[ RUN      ] CPU.FetchesAndDecodesLoadInstruction
+[       OK ] CPU.FetchesAndDecodesLoadInstruction (0 ms)
+[----------] 1 test from CPU (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"CPU.FetchesAndDecodesLoadInstruction" end time: Aug 19 22:41 India Standard Time
+"CPU.FetchesAndDecodesLoadInstruction" time elapsed: 00:00:00
+----------------------------------------------------------
+
+82/91 Testing: CPU.CycleAdvancesByLoadInstructionLength
+82/91 Test: CPU.CycleAdvancesByLoadInstructionLength
+Command: "D:/ANUBHAB/Documents/Microlink/build/microlink_cpu_tests.exe" "--gtest_filter=CPU.CycleAdvancesByLoadInstructionLength" "--gtest_also_run_disabled_tests"
+Directory: D:/ANUBHAB/Documents/Microlink/build
+"CPU.CycleAdvancesByLoadInstructionLength" start time: Aug 19 22:41 India Standard Time
+Output:
+----------------------------------------------------------
+Running main() from C:/M/B/src/googletest-1.17.0/googletest/src/gtest_main.cc
+Note: Google Test filter = CPU.CycleAdvancesByLoadInstructionLength
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from CPU
+[ RUN      ] CPU.CycleAdvancesByLoadInstructionLength
+[       OK ] CPU.CycleAdvancesByLoadInstructionLength (0 ms)
+[----------] 1 test from CPU (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"CPU.CycleAdvancesByLoadInstructionLength" end time: Aug 19 22:41 India Standard Time
+"CPU.CycleAdvancesByLoadInstructionLength" time elapsed: 00:00:00
+----------------------------------------------------------
+
+83/91 Testing: CPU.CycleExecutesMovImmediate
+83/91 Test: CPU.CycleExecutesMovImmediate
+Command: "D:/ANUBHAB/Documents/Microlink/build/microlink_cpu_tests.exe" "--gtest_filter=CPU.CycleExecutesMovImmediate" "--gtest_also_run_disabled_tests"
+Directory: D:/ANUBHAB/Documents/Microlink/build
+"CPU.CycleExecutesMovImmediate" start time: Aug 19 22:41 India Standard Time
+Output:
+----------------------------------------------------------
+Running main() from C:/M/B/src/googletest-1.17.0/googletest/src/gtest_main.cc
+Note: Google Test filter = CPU.CycleExecutesMovImmediate
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from CPU
+[ RUN      ] CPU.CycleExecutesMovImmediate
+[       OK ] CPU.CycleExecutesMovImmediate (0 ms)
+[----------] 1 test from CPU (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"CPU.CycleExecutesMovImmediate" end time: Aug 19 22:41 India Standard Time
+"CPU.CycleExecutesMovImmediate" time elapsed: 00:00:00
+----------------------------------------------------------
+
+84/91 Testing: CPU.CycleExecutesTwoInstructions
+84/91 Test: CPU.CycleExecutesTwoInstructions
+Command: "D:/ANUBHAB/Documents/Microlink/build/microlink_cpu_tests.exe" "--gtest_filter=CPU.CycleExecutesTwoInstructions" "--gtest_also_run_disabled_tests"
+Directory: D:/ANUBHAB/Documents/Microlink/build
+"CPU.CycleExecutesTwoInstructions" start time: Aug 19 22:41 India Standard Time
+Output:
+----------------------------------------------------------
+Running main() from C:/M/B/src/googletest-1.17.0/googletest/src/gtest_main.cc
+Note: Google Test filter = CPU.CycleExecutesTwoInstructions
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from CPU
+[ RUN      ] CPU.CycleExecutesTwoInstructions
+[       OK ] CPU.CycleExecutesTwoInstructions (0 ms)
+[----------] 1 test from CPU (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"CPU.CycleExecutesTwoInstructions" end time: Aug 19 22:41 India Standard Time
+"CPU.CycleExecutesTwoInstructions" time elapsed: 00:00:00
+----------------------------------------------------------
+
+85/91 Testing: CPU.CycleExecutesJump
+85/91 Test: CPU.CycleExecutesJump
+Command: "D:/ANUBHAB/Documents/Microlink/build/microlink_cpu_tests.exe" "--gtest_filter=CPU.CycleExecutesJump" "--gtest_also_run_disabled_tests"
+Directory: D:/ANUBHAB/Documents/Microlink/build
+"CPU.CycleExecutesJump" start time: Aug 19 22:41 India Standard Time
+Output:
+----------------------------------------------------------
+Running main() from C:/M/B/src/googletest-1.17.0/googletest/src/gtest_main.cc
+Note: Google Test filter = CPU.CycleExecutesJump
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from CPU
+[ RUN      ] CPU.CycleExecutesJump
+[       OK ] CPU.CycleExecutesJump (0 ms)
+[----------] 1 test from CPU (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"CPU.CycleExecutesJump" end time: Aug 19 22:41 India Standard Time
+"CPU.CycleExecutesJump" time elapsed: 00:00:00
+----------------------------------------------------------
+
+86/91 Testing: CPU.CycleExecutesConditionalBranch
+86/91 Test: CPU.CycleExecutesConditionalBranch
+Command: "D:/ANUBHAB/Documents/Microlink/build/microlink_cpu_tests.exe" "--gtest_filter=CPU.CycleExecutesConditionalBranch" "--gtest_also_run_disabled_tests"
+Directory: D:/ANUBHAB/Documents/Microlink/build
+"CPU.CycleExecutesConditionalBranch" start time: Aug 19 22:41 India Standard Time
+Output:
+----------------------------------------------------------
+Running main() from C:/M/B/src/googletest-1.17.0/googletest/src/gtest_main.cc
+Note: Google Test filter = CPU.CycleExecutesConditionalBranch
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from CPU
+[ RUN      ] CPU.CycleExecutesConditionalBranch
+[       OK ] CPU.CycleExecutesConditionalBranch (0 ms)
+[----------] 1 test from CPU (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"CPU.CycleExecutesConditionalBranch" end time: Aug 19 22:41 India Standard Time
+"CPU.CycleExecutesConditionalBranch" time elapsed: 00:00:00
+----------------------------------------------------------
+
+87/91 Testing: CPU.CycleDoesNotTakeConditionalBranchWhenFlagIsClear
+87/91 Test: CPU.CycleDoesNotTakeConditionalBranchWhenFlagIsClear
+Command: "D:/ANUBHAB/Documents/Microlink/build/microlink_cpu_tests.exe" "--gtest_filter=CPU.CycleDoesNotTakeConditionalBranchWhenFlagIsClear" "--gtest_also_run_disabled_tests"
+Directory: D:/ANUBHAB/Documents/Microlink/build
+"CPU.CycleDoesNotTakeConditionalBranchWhenFlagIsClear" start time: Aug 19 22:41 India Standard Time
+Output:
+----------------------------------------------------------
+Running main() from C:/M/B/src/googletest-1.17.0/googletest/src/gtest_main.cc
+Note: Google Test filter = CPU.CycleDoesNotTakeConditionalBranchWhenFlagIsClear
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from CPU
+[ RUN      ] CPU.CycleDoesNotTakeConditionalBranchWhenFlagIsClear
+[       OK ] CPU.CycleDoesNotTakeConditionalBranchWhenFlagIsClear (0 ms)
+[----------] 1 test from CPU (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"CPU.CycleDoesNotTakeConditionalBranchWhenFlagIsClear" end time: Aug 19 22:41 India Standard Time
+"CPU.CycleDoesNotTakeConditionalBranchWhenFlagIsClear" time elapsed: 00:00:00
+----------------------------------------------------------
+
+88/91 Testing: CPU.InstructionRegisterContainsFetchedOpcode
+88/91 Test: CPU.InstructionRegisterContainsFetchedOpcode
+Command: "D:/ANUBHAB/Documents/Microlink/build/microlink_cpu_tests.exe" "--gtest_filter=CPU.InstructionRegisterContainsFetchedOpcode" "--gtest_also_run_disabled_tests"
+Directory: D:/ANUBHAB/Documents/Microlink/build
+"CPU.InstructionRegisterContainsFetchedOpcode" start time: Aug 19 22:41 India Standard Time
+Output:
+----------------------------------------------------------
+Running main() from C:/M/B/src/googletest-1.17.0/googletest/src/gtest_main.cc
+Note: Google Test filter = CPU.InstructionRegisterContainsFetchedOpcode
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from CPU
+[ RUN      ] CPU.InstructionRegisterContainsFetchedOpcode
+[       OK ] CPU.InstructionRegisterContainsFetchedOpcode (0 ms)
+[----------] 1 test from CPU (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"CPU.InstructionRegisterContainsFetchedOpcode" end time: Aug 19 22:41 India Standard Time
+"CPU.InstructionRegisterContainsFetchedOpcode" time elapsed: 00:00:00
+----------------------------------------------------------
+
+89/91 Testing: CPU.ProgramCanStartAtArbitraryAddress
+89/91 Test: CPU.ProgramCanStartAtArbitraryAddress
+Command: "D:/ANUBHAB/Documents/Microlink/build/microlink_cpu_tests.exe" "--gtest_filter=CPU.ProgramCanStartAtArbitraryAddress" "--gtest_also_run_disabled_tests"
+Directory: D:/ANUBHAB/Documents/Microlink/build
+"CPU.ProgramCanStartAtArbitraryAddress" start time: Aug 19 22:41 India Standard Time
+Output:
+----------------------------------------------------------
+Running main() from C:/M/B/src/googletest-1.17.0/googletest/src/gtest_main.cc
+Note: Google Test filter = CPU.ProgramCanStartAtArbitraryAddress
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from CPU
+[ RUN      ] CPU.ProgramCanStartAtArbitraryAddress
+[       OK ] CPU.ProgramCanStartAtArbitraryAddress (0 ms)
+[----------] 1 test from CPU (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"CPU.ProgramCanStartAtArbitraryAddress" end time: Aug 19 22:41 India Standard Time
+"CPU.ProgramCanStartAtArbitraryAddress" time elapsed: 00:00:00
+----------------------------------------------------------
+
+90/91 Testing: CPU.RejectsProgramThatDoesNotFitInMemory
+90/91 Test: CPU.RejectsProgramThatDoesNotFitInMemory
+Command: "D:/ANUBHAB/Documents/Microlink/build/microlink_cpu_tests.exe" "--gtest_filter=CPU.RejectsProgramThatDoesNotFitInMemory" "--gtest_also_run_disabled_tests"
+Directory: D:/ANUBHAB/Documents/Microlink/build
+"CPU.RejectsProgramThatDoesNotFitInMemory" start time: Aug 19 22:41 India Standard Time
+Output:
+----------------------------------------------------------
+Running main() from C:/M/B/src/googletest-1.17.0/googletest/src/gtest_main.cc
+Note: Google Test filter = CPU.RejectsProgramThatDoesNotFitInMemory
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from CPU
+[ RUN      ] CPU.RejectsProgramThatDoesNotFitInMemory
+[       OK ] CPU.RejectsProgramThatDoesNotFitInMemory (0 ms)
+[----------] 1 test from CPU (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"CPU.RejectsProgramThatDoesNotFitInMemory" end time: Aug 19 22:41 India Standard Time
+"CPU.RejectsProgramThatDoesNotFitInMemory" time elapsed: 00:00:00
+----------------------------------------------------------
+
+91/91 Testing: CPU.CycleReturnsExecutedInstruction
+91/91 Test: CPU.CycleReturnsExecutedInstruction
+Command: "D:/ANUBHAB/Documents/Microlink/build/microlink_cpu_tests.exe" "--gtest_filter=CPU.CycleReturnsExecutedInstruction" "--gtest_also_run_disabled_tests"
+Directory: D:/ANUBHAB/Documents/Microlink/build
+"CPU.CycleReturnsExecutedInstruction" start time: Aug 19 22:41 India Standard Time
+Output:
+----------------------------------------------------------
+Running main() from C:/M/B/src/googletest-1.17.0/googletest/src/gtest_main.cc
+Note: Google Test filter = CPU.CycleReturnsExecutedInstruction
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from CPU
+[ RUN      ] CPU.CycleReturnsExecutedInstruction
+[       OK ] CPU.CycleReturnsExecutedInstruction (0 ms)
+[----------] 1 test from CPU (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"CPU.CycleReturnsExecutedInstruction" end time: Aug 19 22:41 India Standard Time
+"CPU.CycleReturnsExecutedInstruction" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Aug 19 22:41 India Standard Time

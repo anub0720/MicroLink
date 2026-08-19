@@ -1,0 +1,5 @@
+if(EXISTS "D:/ANUBHAB/Documents/Microlink/build/microlink_cpu_tests[1]_tests.cmake")
+  include("D:/ANUBHAB/Documents/Microlink/build/microlink_cpu_tests[1]_tests.cmake")
+else()
+  add_test(microlink_cpu_tests_NOT_BUILT microlink_cpu_tests_NOT_BUILT)
+endif()
